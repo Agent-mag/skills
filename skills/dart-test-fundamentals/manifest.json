@@ -5,15 +5,15 @@
   "description": "Core concepts and best practices for `package:test`.\nCovers `test`, `group`, lifecycle methods (`setUp`, `tearDown`), and configuration (`dart_test.yaml`).",
   "author": {
     "name": "flutter",
-    "github": "flutter"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/dart-test-fundamentals",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
+    "github": "https://github.com/flutter"
   },
   "license": "Apache-2.0",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

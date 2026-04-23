@@ -5,15 +5,15 @@
   "description": "Master error handling patterns across languages including exceptions, Result types, error propagation, and graceful degradation to build resilient applications. Use when implementing error handling, designing APIs, or improving application reliability.",
   "author": {
     "name": "wshobson",
-    "github": "wshobson"
+    "github": "https://github.com/wshobson"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/wshobson/agents/error-handling-patterns",
-    "github": "https://github.com/wshobson/agents",
-    "repo": "wshobson/agents"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -5,15 +5,15 @@
   "description": "HyperFrames CLI tool — hyperframes init, lint, preview, render, transcribe, tts, doctor, browser, info, upgrade, compositions, docs, benchmark. Use when scaffolding a project, linting or validating compositions, previewing in the studio, rendering to video, transcribing audio, generating TTS, or troubleshooting the HyperFrames environment.",
   "author": {
     "name": "heygen-com",
-    "github": "heygen-com"
+    "github": "https://github.com/heygen-com"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/heygen-com/hyperframes/hyperframes-cli",
-    "github": "https://github.com/heygen-com/hyperframes",
-    "repo": "heygen-com/hyperframes"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Multimodal",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

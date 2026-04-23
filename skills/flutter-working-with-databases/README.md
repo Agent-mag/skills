@@ -1,6 +1,8 @@
 # flutter-working-with-databases
 
-Manages local data persistence using SQLite or other database solutions. Use when a Flutter app needs to store, query, or synchronize large amounts of structured data on the device.
+> Manages local data persistence using SQLite or other database solutions. Use when a Flutter app needs to store, query, or synchronize large amounts of structured data on the device.
+
+**Category:** Data & Files · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Manages local data persistence using SQLite or other database solutions. Use whe
 npx agentmag add skill flutter-working-with-databases
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **flutter-working-with-databases** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **flutter**
 
-## Source
-
-- [skills.sh](https://skills.sh/flutter/skills/flutter-working-with-databases)
-- [GitHub](https://github.com/flutter/skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

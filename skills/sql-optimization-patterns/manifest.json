@@ -5,15 +5,15 @@
   "description": "Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve database performance and eliminate slow queries. Use when debugging slow queries, designing database schemas, or optimizing application performance.",
   "author": {
     "name": "wshobson",
-    "github": "wshobson"
+    "github": "https://github.com/wshobson"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/wshobson/agents/sql-optimization-patterns",
-    "github": "https://github.com/wshobson/agents",
-    "repo": "wshobson/agents"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Communication",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

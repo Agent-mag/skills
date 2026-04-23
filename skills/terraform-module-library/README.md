@@ -1,6 +1,8 @@
 # terraform-module-library
 
-Build reusable Terraform modules for AWS, Azure, GCP, and OCI infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, or implementing reusable IaC components.
+> Build reusable Terraform modules for AWS, Azure, GCP, and OCI infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, or implementing reusable IaC components.
+
+**Category:** Data & Files · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Build reusable Terraform modules for AWS, Azure, GCP, and OCI infrastructure fol
 npx agentmag add skill terraform-module-library
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **terraform-module-library** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **wshobson**
 
-## Source
-
-- [skills.sh](https://skills.sh/wshobson/agents/terraform-module-library)
-- [GitHub](https://github.com/wshobson/agents)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

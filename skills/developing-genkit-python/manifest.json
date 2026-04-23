@@ -5,15 +5,15 @@
   "description": "Develop AI-powered applications using Genkit in Python. Use when the user asks about Genkit, AI agents, flows, or tools in Python, or when encountering Genkit errors, import issues, or API problems.",
   "author": {
     "name": "genkit-ai",
-    "github": "genkit-ai"
+    "github": "https://github.com/genkit-ai"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/genkit-ai/skills/developing-genkit-python",
-    "github": "https://github.com/genkit-ai/skills",
-    "repo": "genkit-ai/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Memory & Knowledge",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

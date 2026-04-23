@@ -5,15 +5,15 @@
   "description": "Configures a Flutter app to support multiple languages and regions. Use when preparing an application for international markets and diverse user locales.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
+    "github": "https://github.com/flutter"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/flutter-localizing-apps",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

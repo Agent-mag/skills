@@ -5,15 +5,15 @@
   "description": "Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling",
   "author": {
     "name": "vercel-labs",
-    "github": "vercel-labs"
+    "github": "https://github.com/vercel-labs"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/vercel-labs/next-skills/next-best-practices",
-    "github": "https://github.com/vercel-labs/next-skills",
-    "repo": "vercel-labs/next-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Multimodal",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

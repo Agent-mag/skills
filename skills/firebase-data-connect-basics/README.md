@@ -1,6 +1,8 @@
 # firebase-data-connect
 
-Build and deploy Firebase SQL Connect (aka Firebase Data Connect) backends with PostgreSQL. Use for schema design, GraphQL queries/mutations, authorization, and SDK generation for web, Android, iOS, and Flutter apps.
+> Build and deploy Firebase SQL Connect (aka Firebase Data Connect) backends with PostgreSQL. Use for schema design, GraphQL queries/mutations, authorization, and SDK generation for web, Android, iOS, and Flutter apps.
+
+**Category:** Data & Files · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Build and deploy Firebase SQL Connect (aka Firebase Data Connect) backends with 
 npx agentmag add skill firebase-data-connect-basics
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **firebase-data-connect** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **firebase**
 
-## Source
-
-- [skills.sh](https://skills.sh/firebase/agent-skills/firebase-data-connect-basics)
-- [GitHub](https://github.com/firebase/agent-skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

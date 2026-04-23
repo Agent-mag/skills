@@ -5,15 +5,15 @@
   "description": "Use this skill when designing or reviewing a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features",
   "author": {
     "name": "wshobson",
-    "github": "wshobson"
+    "github": "https://github.com/wshobson"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/wshobson/agents/postgresql",
-    "github": "https://github.com/wshobson/agents",
-    "repo": "wshobson/agents"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

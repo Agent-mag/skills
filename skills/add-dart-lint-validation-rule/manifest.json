@@ -5,15 +5,15 @@
   "description": "Instructions for adding a new validation rule and CLI flag to dart_skills_lint.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
+    "github": "https://github.com/flutter"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/add-dart-lint-validation-rule",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

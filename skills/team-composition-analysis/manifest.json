@@ -5,15 +5,15 @@
   "description": "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A. Use this skill when planning headcount, determining which roles to hire next, setting compensation or equity ranges, designing org structure, or building a hiring budget aligned to funding milestones.",
   "author": {
     "name": "wshobson",
-    "github": "wshobson"
+    "github": "https://github.com/wshobson"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/wshobson/agents/team-composition-analysis",
-    "github": "https://github.com/wshobson/agents",
-    "repo": "wshobson/agents"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Marketing & SEO",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -5,15 +5,15 @@
   "description": "Python project organization, module architecture, and public API design. Use when setting up new projects, organizing modules, defining public interfaces with __all__, or planning directory layouts.",
   "author": {
     "name": "wshobson",
-    "github": "wshobson"
+    "github": "https://github.com/wshobson"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/wshobson/agents/python-project-structure",
-    "github": "https://github.com/wshobson/agents",
-    "repo": "wshobson/agents"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

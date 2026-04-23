@@ -1,6 +1,8 @@
 # embedding-strategies
 
-Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, implementing chunking strategies, or optimizing embedding quality for specific domains.
+> Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, implementing chunking strategies, or optimizing embedding quality for specific domains.
+
+**Category:** Memory & Knowledge · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Select and optimize embedding models for semantic search and RAG applications. U
 npx agentmag add skill embedding-strategies
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **embedding-strategies** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **wshobson**
 
-## Source
-
-- [skills.sh](https://skills.sh/wshobson/agents/embedding-strategies)
-- [GitHub](https://github.com/wshobson/agents)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

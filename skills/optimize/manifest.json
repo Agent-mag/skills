@@ -5,15 +5,15 @@
   "description": "Diagnoses and fixes UI performance across loading speed, rendering, animations, images, and bundle size. Use when the user mentions slow, laggy, janky, performance, bundle size, load time, or wants a faster, smoother experience.",
   "author": {
     "name": "pbakaus",
-    "github": "pbakaus"
+    "github": "https://github.com/pbakaus"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/pbakaus/impeccable/optimize",
-    "github": "https://github.com/pbakaus/impeccable",
-    "repo": "pbakaus/impeccable"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

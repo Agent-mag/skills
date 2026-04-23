@@ -5,15 +5,15 @@
   "description": "Google Model Armor: Create a new Model Armor template.",
   "author": {
     "name": "googleworkspace",
-    "github": "googleworkspace"
+    "github": "https://github.com/googleworkspace"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/googleworkspace/cli/gws-modelarmor-create-template",
-    "github": "https://github.com/googleworkspace/cli",
-    "repo": "googleworkspace/cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Design & UI"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

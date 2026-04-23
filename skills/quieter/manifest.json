@@ -5,15 +5,15 @@
   "description": "Tones down visually aggressive or overstimulating designs, reducing intensity while preserving quality. Use when the user mentions too bold, too loud, overwhelming, aggressive, garish, or wants a calmer, more refined aesthetic.",
   "author": {
     "name": "pbakaus",
-    "github": "pbakaus"
+    "github": "https://github.com/pbakaus"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/pbakaus/impeccable/quieter",
-    "github": "https://github.com/pbakaus/impeccable",
-    "repo": "pbakaus/impeccable"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

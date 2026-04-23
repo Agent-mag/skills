@@ -5,15 +5,15 @@
   "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
   "author": {
     "name": "anthropics",
-    "github": "anthropics"
+    "github": "https://github.com/anthropics"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/anthropics/skills/doc-coauthoring",
-    "github": "https://github.com/anthropics/skills",
-    "repo": "anthropics/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

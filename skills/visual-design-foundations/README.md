@@ -1,6 +1,8 @@
 # visual-design-foundations
 
-Apply typography, color theory, spacing systems, and iconography principles to create cohesive visual designs. Use when establishing design tokens, building style guides, or improving visual hierarchy and consistency.
+> Apply typography, color theory, spacing systems, and iconography principles to create cohesive visual designs. Use when establishing design tokens, building style guides, or improving visual hierarchy and consistency.
+
+**Category:** Design & UI · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Apply typography, color theory, spacing systems, and iconography principles to c
 npx agentmag add skill visual-design-foundations
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **visual-design-foundations** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **wshobson**
 
-## Source
-
-- [skills.sh](https://skills.sh/wshobson/agents/visual-design-foundations)
-- [GitHub](https://github.com/wshobson/agents)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

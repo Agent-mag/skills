@@ -5,15 +5,15 @@
   "description": "Plan the UX and UI for a feature before writing code. Runs a structured discovery interview, then produces a design brief that guides implementation. Use during the planning phase to establish design direction, constraints, and strategy before any code is written.",
   "author": {
     "name": "pbakaus",
-    "github": "pbakaus"
+    "github": "https://github.com/pbakaus"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/pbakaus/impeccable/shape",
-    "github": "https://github.com/pbakaus/impeccable",
-    "repo": "pbakaus/impeccable"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

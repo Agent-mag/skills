@@ -1,6 +1,8 @@
 # flutter-handling-concurrency
 
-Executes long-running tasks in background isolates to keep the UI responsive. Use when performing heavy computations or parsing large datasets.
+> Executes long-running tasks in background isolates to keep the UI responsive. Use when performing heavy computations or parsing large datasets.
+
+**Category:** Design & UI · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Executes long-running tasks in background isolates to keep the UI responsive. Us
 npx agentmag add skill flutter-handling-concurrency
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **flutter-handling-concurrency** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **flutter**
 
-## Source
-
-- [skills.sh](https://skills.sh/flutter/skills/flutter-handling-concurrency)
-- [GitHub](https://github.com/flutter/skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

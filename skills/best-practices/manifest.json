@@ -5,15 +5,15 @@
   "description": "Configure Better Auth server and client, set up database adapters, manage sessions, add plugins, and handle environment variables. Use when users mention Better Auth, betterauth, auth.ts, or need to set up TypeScript authentication with email/password, OAuth, or plugin configuration.",
   "author": {
     "name": "better-auth",
-    "github": "better-auth"
+    "github": "https://github.com/better-auth"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/better-auth/skills/best-practices",
-    "github": "https://github.com/better-auth/skills",
-    "repo": "better-auth/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Communication",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

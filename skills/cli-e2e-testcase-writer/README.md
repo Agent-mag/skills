@@ -1,6 +1,8 @@
 # cli-e2e-testcase-writer
 
-Use when adding or updating Go CLI E2E coverage for one `tests/cli_e2e/{domain}` domain of the compiled `lark-cli`, especially when the work requires live `--help` or `schema` exploration, scenario-based `clie2e.RunCmd` workflows, and per-domain `coverage.md` maintenance.
+> Use when adding or updating Go CLI E2E coverage for one `tests/cli_e2e/{domain}` domain of the compiled `lark-cli`, especially when the work requires live `--help` or `schema` exploration, scenario-based `clie2e.RunCmd` workflows, and per-domain `coverage.md` maintenance.
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Use when adding or updating Go CLI E2E coverage for one `tests/cli_e2e/{domain}`
 npx agentmag add skill cli-e2e-testcase-writer
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **cli-e2e-testcase-writer** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **larksuite**
 
-## Source
-
-- [skills.sh](https://skills.sh/larksuite/cli/cli-e2e-testcase-writer)
-- [GitHub](https://github.com/larksuite/cli)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

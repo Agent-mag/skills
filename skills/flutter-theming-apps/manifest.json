@@ -5,15 +5,15 @@
   "description": "Customizes the visual appearance of a Flutter app using the theming system. Use when defining global styles, colors, or typography for an application.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
+    "github": "https://github.com/flutter"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/flutter-theming-apps",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

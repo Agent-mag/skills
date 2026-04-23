@@ -5,15 +5,15 @@
   "description": "Comprehensive guide for Firestore Standard Edition, including provisioning, security rules, and SDK usage. Use this skill when the user needs help setting up Firestore, writing security rules, or using the Firestore SDK in their application.",
   "author": {
     "name": "firebase",
-    "github": "firebase"
+    "github": "https://github.com/firebase"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/firebase/agent-skills/firebase-firestore-standard",
-    "github": "https://github.com/firebase/agent-skills",
-    "repo": "firebase/agent-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -5,15 +5,15 @@
   "description": "Builds Flutter forms with validation and user input handling. Use when creating login screens, data entry forms, or any multi-field user input.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
+    "github": "https://github.com/flutter"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/flutter-building-forms",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

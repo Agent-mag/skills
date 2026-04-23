@@ -1,6 +1,8 @@
 # nx-workspace-patterns
 
-Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.
+> Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.
+
+**Category:** Design & UI · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuri
 npx agentmag add skill nx-workspace-patterns
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **nx-workspace-patterns** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **wshobson**
 
-## Source
-
-- [skills.sh](https://skills.sh/wshobson/agents/nx-workspace-patterns)
-- [GitHub](https://github.com/wshobson/agents)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

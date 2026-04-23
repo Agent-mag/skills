@@ -5,15 +5,15 @@
   "description": "Comprehensive guide for Firestore enterprise native including provisioning, data model, security rules, and SDK usage. Use this skill when the user needs help setting up Firestore Enterprise with the Native mode, writing security rules, or using the Firestore SDK in their application.",
   "author": {
     "name": "firebase",
-    "github": "firebase"
+    "github": "https://github.com/firebase"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/firebase/agent-skills/firebase-firestore-enterprise-native-mode",
-    "github": "https://github.com/firebase/agent-skills",
-    "repo": "firebase/agent-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Design & UI"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

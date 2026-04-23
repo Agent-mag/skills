@@ -5,15 +5,15 @@
   "description": "Implements caching strategies for Flutter apps to improve performance and offline support. Use when retaining app data locally to reduce network requests or speed up startup.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
+    "github": "https://github.com/flutter"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/flutter-caching-data",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

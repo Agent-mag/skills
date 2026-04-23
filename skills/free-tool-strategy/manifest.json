@@ -5,15 +5,15 @@
   "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as marketing,\" \"free tool,\" \"marketing tool,\" \"calculator,\" \"generator,\" \"interactive tool,\" \"lead gen tool,\" \"build a tool for leads,\" \"free resource,\" \"ROI calculator,\" \"grader tool,\" \"audit tool,\" \"should I build a free tool,\" or \"tools for lead gen.\" Use this whenever someone wants to build something useful and give it away to attract leads or earn links. For downloadable content lead magnets (ebooks, checklists, templates), see lead-magnets.",
   "author": {
     "name": "coreyhaines31",
-    "github": "coreyhaines31"
+    "github": "https://github.com/coreyhaines31"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/coreyhaines31/marketingskills/free-tool-strategy",
-    "github": "https://github.com/coreyhaines31/marketingskills",
-    "repo": "coreyhaines31/marketingskills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

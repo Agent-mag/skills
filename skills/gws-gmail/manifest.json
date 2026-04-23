@@ -5,15 +5,15 @@
   "description": "Gmail: Send, read, and manage email.",
   "author": {
     "name": "googleworkspace",
-    "github": "googleworkspace"
+    "github": "https://github.com/googleworkspace"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/googleworkspace/cli/gws-gmail",
-    "github": "https://github.com/googleworkspace/cli",
-    "repo": "googleworkspace/cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Communication"
+  "category": "Communication",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

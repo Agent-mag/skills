@@ -1,6 +1,8 @@
 # firebase-app-hosting-basics
 
-Deploy and manage web apps with Firebase App Hosting. Use this skill when deploying Next.js/Angular apps with backends.
+> Deploy and manage web apps with Firebase App Hosting. Use this skill when deploying Next.js/Angular apps with backends.
+
+**Category:** Design & UI · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Deploy and manage web apps with Firebase App Hosting. Use this skill when deploy
 npx agentmag add skill firebase-app-hosting-basics
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **firebase-app-hosting-basics** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **firebase**
 
-## Source
-
-- [skills.sh](https://skills.sh/firebase/agent-skills/firebase-app-hosting-basics)
-- [GitHub](https://github.com/firebase/agent-skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

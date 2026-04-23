@@ -1,6 +1,8 @@
 # mobile-android-design
 
-Master Material Design 3 and Jetpack Compose patterns for building native Android apps. Use when designing Android interfaces, implementing Compose UI, or following Google's Material Design guidelines.
+> Master Material Design 3 and Jetpack Compose patterns for building native Android apps. Use when designing Android interfaces, implementing Compose UI, or following Google's Material Design guidelines.
+
+**Category:** Design & UI · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Master Material Design 3 and Jetpack Compose patterns for building native Androi
 npx agentmag add skill mobile-android-design
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **mobile-android-design** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **wshobson**
 
-## Source
-
-- [skills.sh](https://skills.sh/wshobson/agents/mobile-android-design)
-- [GitHub](https://github.com/wshobson/agents)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

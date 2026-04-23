@@ -1,6 +1,8 @@
 # lark-attendance
 
-飞书考勤打卡：查询自己的考勤打卡记录
+> 飞书考勤打卡：查询自己的考勤打卡记录
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@
 npx agentmag add skill lark-attendance
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **lark-attendance** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **larksuite**
 
-## Source
-
-- [skills.sh](https://skills.sh/larksuite/cli/lark-attendance)
-- [GitHub](https://github.com/larksuite/cli)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

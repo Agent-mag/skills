@@ -5,15 +5,15 @@
   "description": "Check/manage Azure quotas and usage across providers. For deployment planning, capacity validation, region selection. WHEN: \"check quotas\", \"service limits\", \"current usage\", \"request quota increase\", \"quota exceeded\", \"validate capacity\", \"regional availability\", \"provisioning limits\", \"vCPU limit\", \"how many vCPUs available in my subscription\".",
   "author": {
     "name": "microsoft",
-    "github": "microsoft"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/microsoft/azure-skills/azure-quotas",
-    "github": "https://github.com/microsoft/azure-skills",
-    "repo": "microsoft/azure-skills"
+    "github": "https://github.com/microsoft"
   },
   "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

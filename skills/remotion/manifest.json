@@ -5,15 +5,15 @@
   "description": "Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays",
   "author": {
     "name": "google-labs-code",
-    "github": "google-labs-code"
+    "github": "https://github.com/google-labs-code"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/google-labs-code/stitch-skills/remotion",
-    "github": "https://github.com/google-labs-code/stitch-skills",
-    "repo": "google-labs-code/stitch-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Multimodal",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

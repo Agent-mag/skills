@@ -1,6 +1,8 @@
 # github-triage
 
-Triage GitHub issues through a label-based state machine with interactive grilling sessions. Use when user wants to triage issues, review incoming bugs or feature requests, prepare issues for an AFK agent, or manage issue workflow.
+> Triage GitHub issues through a label-based state machine with interactive grilling sessions. Use when user wants to triage issues, review incoming bugs or feature requests, prepare issues for an AFK agent, or manage issue workflow.
+
+**Category:** Memory & Knowledge · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Triage GitHub issues through a label-based state machine with interactive grilli
 npx agentmag add skill github-triage
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **github-triage** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **mattpocock**
 
-## Source
-
-- [skills.sh](https://skills.sh/mattpocock/skills/github-triage)
-- [GitHub](https://github.com/mattpocock/skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

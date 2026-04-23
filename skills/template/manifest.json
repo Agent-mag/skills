@@ -5,15 +5,15 @@
   "description": "Replace with description of the skill and when Claude should use it.",
   "author": {
     "name": "anthropics",
-    "github": "anthropics"
+    "github": "https://github.com/anthropics"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/anthropics/skills/template",
-    "github": "https://github.com/anthropics/skills",
-    "repo": "anthropics/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

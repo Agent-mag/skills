@@ -1,6 +1,8 @@
 # vercel-cli-with-tokens
 
-Deploy and manage projects on Vercel using token-based authentication. Use when working with Vercel CLI using access tokens rather than interactive login — e.g. "deploy to vercel", "set up vercel", "add environment variables to vercel".
+> Deploy and manage projects on Vercel using token-based authentication. Use when working with Vercel CLI using access tokens rather than interactive login — e.g. "deploy to vercel", "set up vercel", "add environment variables to vercel".
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Deploy and manage projects on Vercel using token-based authentication. Use when 
 npx agentmag add skill vercel-cli-with-tokens
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **vercel-cli-with-tokens** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **vercel-labs**
 
-## Source
-
-- [skills.sh](https://skills.sh/vercel-labs/agent-skills/vercel-cli-with-tokens)
-- [GitHub](https://github.com/vercel-labs/agent-skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

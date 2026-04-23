@@ -5,15 +5,15 @@
   "description": "Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions \"red-green-refactor\", wants integration tests, or asks for test-first development.",
   "author": {
     "name": "mattpocock",
-    "github": "mattpocock"
+    "github": "https://github.com/mattpocock"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/mattpocock/skills/tdd",
-    "github": "https://github.com/mattpocock/skills",
-    "repo": "mattpocock/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Data & Files",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

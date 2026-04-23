@@ -5,15 +5,15 @@
   "description": "Use when adding or updating Go CLI E2E coverage for one `tests/cli_e2e/{domain}` domain of the compiled `lark-cli`, especially when the work requires live `--help` or `schema` exploration, scenario-based `clie2e.RunCmd` workflows, and per-domain `coverage.md` maintenance.",
   "author": {
     "name": "larksuite",
-    "github": "larksuite"
+    "github": "https://github.com/larksuite"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/larksuite/cli/cli-e2e-testcase-writer",
-    "github": "https://github.com/larksuite/cli",
-    "repo": "larksuite/cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

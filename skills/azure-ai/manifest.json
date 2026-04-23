@@ -5,15 +5,15 @@
   "description": "Use for Azure AI: Search, Speech, OpenAI, Document Intelligence. Helps with search, vector/hybrid search, speech-to-text, text-to-speech, transcription, OCR. WHEN: AI Search, query search, vector search, hybrid search, semantic search, speech-to-text, text-to-speech, transcribe, OCR, convert text to speech.",
   "author": {
     "name": "microsoft",
-    "github": "microsoft"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/microsoft/azure-skills/azure-ai",
-    "github": "https://github.com/microsoft/azure-skills",
-    "repo": "microsoft/azure-skills"
+    "github": "https://github.com/microsoft"
   },
   "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Multimodal",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

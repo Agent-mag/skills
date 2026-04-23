@@ -5,15 +5,15 @@
   "description": "Run agent-browser on AWS Bedrock AgentCore cloud browsers. Use when the user wants to use AgentCore, run browser automation on AWS, use a cloud browser with AWS credentials, or needs a managed browser session backed by AWS infrastructure. Triggers include \"use agentcore\", \"run on AWS\", \"cloud browser with AWS\", \"bedrock browser\", \"agentcore session\", or any task requiring AWS-hosted browser automation.",
   "author": {
     "name": "vercel-labs",
-    "github": "vercel-labs"
+    "github": "https://github.com/vercel-labs"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/vercel-labs/agent-browser/agentcore",
-    "github": "https://github.com/vercel-labs/agent-browser",
-    "repo": "vercel-labs/agent-browser"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Browsing & Search",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

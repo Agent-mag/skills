@@ -1,6 +1,8 @@
 # systematic-debugging
 
-Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+> Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Use when encountering any bug, test failure, or unexpected behavior, before prop
 npx agentmag add skill systematic-debugging
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **systematic-debugging** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **obra**
 
-## Source
-
-- [skills.sh](https://skills.sh/obra/superpowers/systematic-debugging)
-- [GitHub](https://github.com/obra/superpowers)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

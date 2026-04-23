@@ -5,15 +5,15 @@
   "description": "Best practices for using `expect` and `package:matcher`.\nFocuses on readable assertions, proper matcher selection, and avoiding common pitfalls.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/dart-matcher-best-practices",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
+    "github": "https://github.com/flutter"
   },
   "license": "Apache-2.0",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

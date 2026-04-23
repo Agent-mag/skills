@@ -5,15 +5,15 @@
   "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
   "author": {
     "name": "obra",
-    "github": "obra"
+    "github": "https://github.com/obra"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/obra/superpowers/receiving-code-review",
-    "github": "https://github.com/obra/superpowers",
-    "repo": "obra/superpowers"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -5,15 +5,15 @@
   "description": "Best practices for validating Dart documentation comments.\nCovers using `dart doc` to catch unresolved references and macros.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/dart-doc-validation",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
+    "github": "https://github.com/flutter"
   },
   "license": "Apache-2.0",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -5,15 +5,15 @@
   "description": "Build and deploy Firebase SQL Connect (aka Firebase Data Connect) backends with PostgreSQL. Use for schema design, GraphQL queries/mutations, authorization, and SDK generation for web, Android, iOS, and Flutter apps.",
   "author": {
     "name": "firebase",
-    "github": "firebase"
+    "github": "https://github.com/firebase"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/firebase/agent-skills/firebase-data-connect-basics",
-    "github": "https://github.com/firebase/agent-skills",
-    "repo": "firebase/agent-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Data & Files",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

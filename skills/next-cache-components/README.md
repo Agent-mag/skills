@@ -1,6 +1,8 @@
 # next-cache-components
 
-Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag
+> Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, upd
 npx agentmag add skill next-cache-components
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **next-cache-components** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **vercel-labs**
 
-## Source
-
-- [skills.sh](https://skills.sh/vercel-labs/next-skills/next-cache-components)
-- [GitHub](https://github.com/vercel-labs/next-skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

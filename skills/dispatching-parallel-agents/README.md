@@ -1,6 +1,8 @@
 # dispatching-parallel-agents
 
-Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
+> Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Use when facing 2+ independent tasks that can be worked on without shared state 
 npx agentmag add skill dispatching-parallel-agents
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **dispatching-parallel-agents** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **obra**
 
-## Source
-
-- [skills.sh](https://skills.sh/obra/superpowers/dispatching-parallel-agents)
-- [GitHub](https://github.com/obra/superpowers)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

@@ -5,15 +5,15 @@
   "description": "Break a plan, spec, or PRD into independently-grabbable GitHub issues using tracer-bullet vertical slices. Use when user wants to convert a plan into issues, create implementation tickets, or break down work into issues.",
   "author": {
     "name": "mattpocock",
-    "github": "mattpocock"
+    "github": "https://github.com/mattpocock"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/mattpocock/skills/to-issues",
-    "github": "https://github.com/mattpocock/skills",
-    "repo": "mattpocock/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

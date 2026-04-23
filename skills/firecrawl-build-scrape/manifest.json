@@ -5,15 +5,15 @@
   "description": "Integrate Firecrawl `/scrape` into product code for single-page extraction. Use when an app already has a URL and needs markdown, HTML, links, screenshots, metadata, or structured page output. Prefer this skill over broader crawl patterns when the feature is page-level.",
   "author": {
     "name": "firecrawl",
-    "github": "firecrawl"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/firecrawl/skills/firecrawl-build-scrape",
-    "github": "https://github.com/firecrawl/skills",
-    "repo": "firecrawl/skills"
+    "github": "https://github.com/firecrawl"
   },
   "license": "ISC",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Memory & Knowledge",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

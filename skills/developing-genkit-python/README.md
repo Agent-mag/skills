@@ -1,6 +1,8 @@
 # developing-genkit-python
 
-Develop AI-powered applications using Genkit in Python. Use when the user asks about Genkit, AI agents, flows, or tools in Python, or when encountering Genkit errors, import issues, or API problems.
+> Develop AI-powered applications using Genkit in Python. Use when the user asks about Genkit, AI agents, flows, or tools in Python, or when encountering Genkit errors, import issues, or API problems.
+
+**Category:** Memory & Knowledge · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Develop AI-powered applications using Genkit in Python. Use when the user asks a
 npx agentmag add skill developing-genkit-python
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **developing-genkit-python** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **genkit-ai**
 
-## Source
-
-- [skills.sh](https://skills.sh/genkit-ai/skills/developing-genkit-python)
-- [GitHub](https://github.com/genkit-ai/skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

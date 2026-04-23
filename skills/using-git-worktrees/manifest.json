@@ -5,15 +5,15 @@
   "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
   "author": {
     "name": "obra",
-    "github": "obra"
+    "github": "https://github.com/obra"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/obra/superpowers/using-git-worktrees",
-    "github": "https://github.com/obra/superpowers",
-    "repo": "obra/superpowers"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

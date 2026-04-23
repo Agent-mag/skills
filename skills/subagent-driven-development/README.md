@@ -1,6 +1,8 @@
 # subagent-driven-development
 
-Use when executing implementation plans with independent tasks in the current session
+> Use when executing implementation plans with independent tasks in the current session
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Use when executing implementation plans with independent tasks in the current se
 npx agentmag add skill subagent-driven-development
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **subagent-driven-development** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **obra**
 
-## Source
-
-- [skills.sh](https://skills.sh/obra/superpowers/subagent-driven-development)
-- [GitHub](https://github.com/obra/superpowers)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

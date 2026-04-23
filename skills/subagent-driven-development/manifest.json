@@ -5,15 +5,15 @@
   "description": "Use when executing implementation plans with independent tasks in the current session",
   "author": {
     "name": "obra",
-    "github": "obra"
+    "github": "https://github.com/obra"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/obra/superpowers/subagent-driven-development",
-    "github": "https://github.com/obra/superpowers",
-    "repo": "obra/superpowers"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

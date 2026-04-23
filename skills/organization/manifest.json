@@ -5,15 +5,15 @@
   "description": "Configure multi-tenant organizations, manage members and invitations, define custom roles and permissions, set up teams, and implement RBAC using Better Auth's organization plugin. Use when users need org setup, team management, member roles, access control, or the Better Auth organization plugin.",
   "author": {
     "name": "better-auth",
-    "github": "better-auth"
+    "github": "https://github.com/better-auth"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/better-auth/skills/organization",
-    "github": "https://github.com/better-auth/skills",
-    "repo": "better-auth/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Data & Files"
+  "category": "Data & Files",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

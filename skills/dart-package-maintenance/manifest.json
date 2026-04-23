@@ -5,15 +5,15 @@
   "description": "Guidelines for maintaining external Dart packages, covering versioning,\npublishing workflows, and pull request management. Use when updating Dart\npackages, preparing for a release, or managing collaborative changes in a\nrepository.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
+    "github": "https://github.com/flutter"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/dart-package-maintenance",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Data & Files"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -1,6 +1,8 @@
 # design-md
 
-Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files
+> Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files
+
+**Category:** Design & UI · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Analyze Stitch projects and synthesize a semantic design system into DESIGN.md f
 npx agentmag add skill design-md
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **design-md** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **google-labs-code**
 
-## Source
-
-- [skills.sh](https://skills.sh/google-labs-code/stitch-skills/design-md)
-- [GitHub](https://github.com/google-labs-code/stitch-skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

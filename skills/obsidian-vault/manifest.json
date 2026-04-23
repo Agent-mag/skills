@@ -5,15 +5,15 @@
   "description": "Search, create, and manage notes in the Obsidian vault with wikilinks and index notes. Use when user wants to find, create, or organize notes in Obsidian.",
   "author": {
     "name": "mattpocock",
-    "github": "mattpocock"
+    "github": "https://github.com/mattpocock"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/mattpocock/skills/obsidian-vault",
-    "github": "https://github.com/mattpocock/skills",
-    "repo": "mattpocock/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Memory & Knowledge",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

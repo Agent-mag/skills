@@ -5,15 +5,15 @@
   "description": "Development workflows for the playwright-cli repository. Use when the user asks about rolling dependencies, releasing, or other repo maintenance tasks.",
   "author": {
     "name": "microsoft",
-    "github": "microsoft"
+    "github": "https://github.com/microsoft"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/microsoft/playwright-cli/dev",
-    "github": "https://github.com/microsoft/playwright-cli",
-    "repo": "microsoft/playwright-cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

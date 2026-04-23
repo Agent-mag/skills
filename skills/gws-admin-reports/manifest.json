@@ -5,15 +5,15 @@
   "description": "Google Workspace Admin SDK: Audit logs and usage reports.",
   "author": {
     "name": "googleworkspace",
-    "github": "googleworkspace"
+    "github": "https://github.com/googleworkspace"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/googleworkspace/cli/gws-admin-reports",
-    "github": "https://github.com/googleworkspace/cli",
-    "repo": "googleworkspace/cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Communication",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

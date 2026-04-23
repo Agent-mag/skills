@@ -5,15 +5,15 @@
   "description": "Edit and improve articles by restructuring sections, improving clarity, and tightening prose. Use when user wants to edit, revise, or improve an article draft.",
   "author": {
     "name": "mattpocock",
-    "github": "mattpocock"
+    "github": "https://github.com/mattpocock"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/mattpocock/skills/edit-article",
-    "github": "https://github.com/mattpocock/skills",
-    "repo": "mattpocock/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

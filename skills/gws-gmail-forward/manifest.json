@@ -5,15 +5,15 @@
   "description": "Gmail: Forward a message to new recipients.",
   "author": {
     "name": "googleworkspace",
-    "github": "googleworkspace"
+    "github": "https://github.com/googleworkspace"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/googleworkspace/cli/gws-gmail-forward",
-    "github": "https://github.com/googleworkspace/cli",
-    "repo": "googleworkspace/cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Communication",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

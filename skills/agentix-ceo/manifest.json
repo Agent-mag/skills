@@ -5,15 +5,15 @@
   "description": "Manage your team — create roles, assign tasks, spawn workers, and monitor progress",
   "author": {
     "name": "agentix-cloud",
-    "github": "agentix-cloud"
+    "github": "https://github.com/agentix-cloud"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/agentix-cloud/skills/agentix-ceo",
-    "github": "https://github.com/agentix-cloud/skills",
-    "repo": "agentix-cloud/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

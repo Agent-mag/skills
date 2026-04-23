@@ -5,15 +5,15 @@
   "description": "Develop AI-powered applications using Genkit in Go. Use when the user asks to build AI features, agents, flows, or tools in Go using Genkit, or when working with Genkit Go code involving generation, prompts, streaming, tool calling, or model providers.",
   "author": {
     "name": "genkit-ai",
-    "github": "genkit-ai"
+    "github": "https://github.com/genkit-ai"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/genkit-ai/skills/developing-genkit-go",
-    "github": "https://github.com/genkit-ai/skills",
-    "repo": "genkit-ai/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -5,15 +5,15 @@
   "description": "Deploy and manage web apps with Firebase App Hosting. Use this skill when deploying Next.js/Angular apps with backends.",
   "author": {
     "name": "firebase",
-    "github": "firebase"
+    "github": "https://github.com/firebase"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/firebase/agent-skills/firebase-app-hosting-basics",
-    "github": "https://github.com/firebase/agent-skills",
-    "repo": "firebase/agent-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -5,15 +5,15 @@
   "description": "Optimize web performance for faster loading and better user experience. Use when asked to \"speed up my site\", \"optimize performance\", \"reduce load time\", \"fix slow loading\", \"improve page speed\", or \"performance audit\".",
   "author": {
     "name": "addyosmani",
-    "github": "addyosmani"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/addyosmani/web-quality-skills/performance",
-    "github": "https://github.com/addyosmani/web-quality-skills",
-    "repo": "addyosmani/web-quality-skills"
+    "github": "https://github.com/addyosmani"
   },
   "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

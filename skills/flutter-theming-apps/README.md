@@ -1,6 +1,8 @@
 # flutter-theming-apps
 
-Customizes the visual appearance of a Flutter app using the theming system. Use when defining global styles, colors, or typography for an application.
+> Customizes the visual appearance of a Flutter app using the theming system. Use when defining global styles, colors, or typography for an application.
+
+**Category:** Design & UI · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Customizes the visual appearance of a Flutter app using the theming system. Use 
 npx agentmag add skill flutter-theming-apps
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **flutter-theming-apps** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **flutter**
 
-## Source
-
-- [skills.sh](https://skills.sh/flutter/skills/flutter-theming-apps)
-- [GitHub](https://github.com/flutter/skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

@@ -5,15 +5,15 @@
   "description": "Pushes interfaces past conventional limits with technically ambitious implementations — shaders, spring physics, scroll-driven reveals, 60fps animations. Use when the user wants to wow, impress, go all-out, or make something that feels extraordinary.",
   "author": {
     "name": "pbakaus",
-    "github": "pbakaus"
+    "github": "https://github.com/pbakaus"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/pbakaus/impeccable/overdrive",
-    "github": "https://github.com/pbakaus/impeccable",
-    "repo": "pbakaus/impeccable"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

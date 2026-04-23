@@ -1,6 +1,8 @@
 # good-skill
 
-This is a properly formatted skill.
+> This is a properly formatted skill.
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ This is a properly formatted skill.
 npx agentmag add skill good-skill
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **good-skill** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **larksuite**
 
-## Source
-
-- [skills.sh](https://skills.sh/larksuite/cli/good-skill)
-- [GitHub](https://github.com/larksuite/cli)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

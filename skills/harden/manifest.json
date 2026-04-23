@@ -2,18 +2,18 @@
   "name": "harden",
   "slug": "harden",
   "version": "1.0.0",
-  "description": "Strengthen interfaces against edge cases, errors, internationalization issues, and real-world usage scenarios that break idealized designs.  ## Assess Hardening Needs  Identify weaknesses and edge ca",
+  "description": "Strengthen interfaces against edge cases, errors, internationalization issues, and real-world usage scenarios that break idealized designs.  ## Assess Hardening Needs  Identify weaknesses and edge cases:  1. **Test with extreme inputs**:    - Very long text (names, descriptions, titles)    - Very s",
   "author": {
     "name": "pbakaus",
-    "github": "pbakaus"
+    "github": "https://github.com/pbakaus"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/pbakaus/impeccable/harden",
-    "github": "https://github.com/pbakaus/impeccable",
-    "repo": "pbakaus/impeccable"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

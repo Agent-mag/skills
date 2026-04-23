@@ -1,6 +1,8 @@
 # harden
 
-Strengthen interfaces against edge cases, errors, internationalization issues, and real-world usage scenarios that break idealized designs.  ## Assess Hardening Needs  Identify weaknesses and edge ca
+> Strengthen interfaces against edge cases, errors, internationalization issues, and real-world usage scenarios that break idealized designs.  ## Assess Hardening Needs  Identify weaknesses and edge cases:  1. **Test with extreme inputs**:    - Very long text (names, descriptions, titles)    - Very s
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Strengthen interfaces against edge cases, errors, internationalization issues, a
 npx agentmag add skill harden
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **harden** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **pbakaus**
 
-## Source
-
-- [skills.sh](https://skills.sh/pbakaus/impeccable/harden)
-- [GitHub](https://github.com/pbakaus/impeccable)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

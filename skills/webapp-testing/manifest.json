@@ -5,15 +5,15 @@
   "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
   "author": {
     "name": "anthropics",
-    "github": "anthropics"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/anthropics/skills/webapp-testing",
-    "github": "https://github.com/anthropics/skills",
-    "repo": "anthropics/skills"
+    "github": "https://github.com/anthropics"
   },
   "license": "Complete terms in LICENSE.txt",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

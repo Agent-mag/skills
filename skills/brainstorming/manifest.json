@@ -5,15 +5,15 @@
   "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
   "author": {
     "name": "obra",
-    "github": "obra"
+    "github": "https://github.com/obra"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/obra/superpowers/brainstorming",
-    "github": "https://github.com/obra/superpowers",
-    "repo": "obra/superpowers"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

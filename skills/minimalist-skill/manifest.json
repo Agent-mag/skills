@@ -5,15 +5,15 @@
   "description": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy shadows.",
   "author": {
     "name": "leonxlnx",
-    "github": "leonxlnx"
+    "github": "https://github.com/leonxlnx"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/leonxlnx/taste-skill/minimalist-skill",
-    "github": "https://github.com/leonxlnx/taste-skill",
-    "repo": "leonxlnx/taste-skill"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

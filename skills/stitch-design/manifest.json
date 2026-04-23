@@ -5,15 +5,15 @@
   "description": "Unified entry point for Stitch design work. Handles prompt enhancement (UI/UX keywords, atmosphere), design system synthesis (.stitch/DESIGN.md), and high-fidelity screen generation/editing via Stitch MCP.",
   "author": {
     "name": "google-labs-code",
-    "github": "google-labs-code"
+    "github": "https://github.com/google-labs-code"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/google-labs-code/stitch-skills/stitch-design",
-    "github": "https://github.com/google-labs-code/stitch-skills",
-    "repo": "google-labs-code/stitch-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

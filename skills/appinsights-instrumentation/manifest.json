@@ -5,15 +5,15 @@
   "description": "Guidance for instrumenting webapps with Azure Application Insights. Provides telemetry patterns, SDK setup, and configuration references. WHEN: how to instrument app, App Insights SDK, telemetry patterns, what is App Insights, Application Insights guidance, instrumentation examples, APM best practices.",
   "author": {
     "name": "microsoft",
-    "github": "microsoft"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/microsoft/azure-skills/appinsights-instrumentation",
-    "github": "https://github.com/microsoft/azure-skills",
-    "repo": "microsoft/azure-skills"
+    "github": "https://github.com/microsoft"
   },
   "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

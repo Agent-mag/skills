@@ -1,6 +1,8 @@
 # flutter-localizing-apps
 
-Configures a Flutter app to support multiple languages and regions. Use when preparing an application for international markets and diverse user locales.
+> Configures a Flutter app to support multiple languages and regions. Use when preparing an application for international markets and diverse user locales.
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Configures a Flutter app to support multiple languages and regions. Use when pre
 npx agentmag add skill flutter-localizing-apps
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **flutter-localizing-apps** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **flutter**
 
-## Source
-
-- [skills.sh](https://skills.sh/flutter/skills/flutter-localizing-apps)
-- [GitHub](https://github.com/flutter/skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

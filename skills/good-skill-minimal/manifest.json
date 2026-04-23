@@ -5,15 +5,15 @@
   "description": "Minimal valid description",
   "author": {
     "name": "larksuite",
-    "github": "larksuite"
+    "github": "https://github.com/larksuite"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/larksuite/cli/good-skill-minimal",
-    "github": "https://github.com/larksuite/cli",
-    "repo": "larksuite/cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Design & UI"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

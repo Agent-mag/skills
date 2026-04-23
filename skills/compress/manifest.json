@@ -5,15 +5,15 @@
   "description": "Compress natural language memory files (CLAUDE.md, todos, preferences) into caveman format to save input tokens. Preserves all technical substance, code, URLs, and structure. Compressed version overwrites the original file. Human-readable backup saved as FILE.original.md. Trigger: /caveman:compress <filepath> or \"compress memory file\"\n",
   "author": {
     "name": "juliusbrussee",
-    "github": "juliusbrussee"
+    "github": "https://github.com/juliusbrussee"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/juliusbrussee/caveman/compress",
-    "github": "https://github.com/juliusbrussee/caveman",
-    "repo": "juliusbrussee/caveman"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Memory & Knowledge",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

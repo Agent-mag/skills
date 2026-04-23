@@ -5,15 +5,15 @@
   "description": "Google Model Armor: Filter user-generated content for safety.",
   "author": {
     "name": "googleworkspace",
-    "github": "googleworkspace"
+    "github": "https://github.com/googleworkspace"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/googleworkspace/cli/gws-modelarmor",
-    "github": "https://github.com/googleworkspace/cli",
-    "repo": "googleworkspace/cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Design & UI"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

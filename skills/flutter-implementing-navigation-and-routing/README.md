@@ -1,6 +1,8 @@
 # flutter-implementing-navigation-and-routing
 
-Handles routing, navigation, and deep linking in a Flutter application. Use when moving between screens or setting up URL-based navigation.
+> Handles routing, navigation, and deep linking in a Flutter application. Use when moving between screens or setting up URL-based navigation.
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Handles routing, navigation, and deep linking in a Flutter application. Use when
 npx agentmag add skill flutter-implementing-navigation-and-routing
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **flutter-implementing-navigation-and-routing** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **flutter**
 
-## Source
-
-- [skills.sh](https://skills.sh/flutter/skills/flutter-implementing-navigation-and-routing)
-- [GitHub](https://github.com/flutter/skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

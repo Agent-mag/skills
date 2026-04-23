@@ -1,6 +1,8 @@
 # azure-cost
 
-Unified Azure cost management: query historical costs, forecast future spending, and optimize to reduce waste. WHEN: "Azure costs", "Azure spending", "Azure bill", "cost breakdown", "cost by service", "cost by resource", "how much am I spending", "show my bill", "monthly cost summary", "cost trends", "top cost drivers", "actual cost", "amortized cost", "forecast spending", "projected costs", "estimate bill", "future costs", "budget forecast", "end of month costs", "how much will I spend", "optimize costs", "reduce spending", "find cost savings", "orphaned resources", "rightsize VMs", "cost analysis", "reduce waste", "unused resources", "optimize Redis costs", "cost by tag", "cost by resource group", "AKS cost analysis add-on", "namespace cost", "cost spike", "anomaly", "budget alert", "AKS cost visibility". DO NOT USE FOR: deploying resources, provisioning infrastructure, diagnostics, security audits, or estimating costs for new resources not yet deployed.
+> Unified Azure cost management: query historical costs, forecast future spending, and optimize to reduce waste. WHEN: "Azure costs", "Azure spending", "Azure bill", "cost breakdown", "cost by service", "cost by resource", "how much am I spending", "show my bill", "monthly cost summary", "cost trends", "top cost drivers", "actual cost", "amortized cost", "forecast spending", "projected costs", "estimate bill", "future costs", "budget forecast", "end of month costs", "how much will I spend", "optimize costs", "reduce spending", "find cost savings", "orphaned resources", "rightsize VMs", "cost analysis", "reduce waste", "unused resources", "optimize Redis costs", "cost by tag", "cost by resource group", "AKS cost analysis add-on", "namespace cost", "cost spike", "anomaly", "budget alert", "AKS cost visibility". DO NOT USE FOR: deploying resources, provisioning infrastructure, diagnostics, security audits, or estimating costs for new resources not yet deployed.
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Unified Azure cost management: query historical costs, forecast future spending,
 npx agentmag add skill azure-cost
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **azure-cost** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **microsoft**
 
-## Source
-
-- [skills.sh](https://skills.sh/microsoft/azure-skills/azure-cost)
-- [GitHub](https://github.com/microsoft/azure-skills)
-
-## License
-
-MIT
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

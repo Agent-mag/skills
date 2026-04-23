@@ -5,15 +5,15 @@
   "description": "` block.",
   "author": {
     "name": "larksuite",
-    "github": "larksuite"
+    "github": "https://github.com/larksuite"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/larksuite/cli/bad-skill-unclosed-frontmatter",
-    "github": "https://github.com/larksuite/cli",
-    "repo": "larksuite/cli"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

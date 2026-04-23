@@ -1,6 +1,8 @@
 # gws-chat-send
 
-Google Chat: Send a message to a space.
+> Google Chat: Send a message to a space.
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Google Chat: Send a message to a space.
 npx agentmag add skill gws-chat-send
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **gws-chat-send** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **googleworkspace**
 
-## Source
-
-- [skills.sh](https://skills.sh/googleworkspace/cli/gws-chat-send)
-- [GitHub](https://github.com/googleworkspace/cli)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

@@ -1,6 +1,8 @@
 # next-best-practices
 
-Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling
+> Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling
+
+**Category:** Multimodal · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Next.js best practices - file conventions, RSC boundaries, data patterns, async 
 npx agentmag add skill next-best-practices
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **next-best-practices** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **vercel-labs**
 
-## Source
-
-- [skills.sh](https://skills.sh/vercel-labs/next-skills/next-best-practices)
-- [GitHub](https://github.com/vercel-labs/next-skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

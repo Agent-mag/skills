@@ -1,6 +1,8 @@
 # stitch-loop
 
-Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern
+> Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Teaches agents to iteratively build websites using Stitch with an autonomous bat
 npx agentmag add skill stitch-loop
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **stitch-loop** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **google-labs-code**
 
-## Source
-
-- [skills.sh](https://skills.sh/google-labs-code/stitch-skills/stitch-loop)
-- [GitHub](https://github.com/google-labs-code/stitch-skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

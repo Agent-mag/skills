@@ -5,15 +5,15 @@
   "description": "Upgrade Next.js to the latest version following official migration guides and codemods",
   "author": {
     "name": "vercel-labs",
-    "github": "vercel-labs"
+    "github": "https://github.com/vercel-labs"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/vercel-labs/next-skills/next-upgrade",
-    "github": "https://github.com/vercel-labs/next-skills",
-    "repo": "vercel-labs/next-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

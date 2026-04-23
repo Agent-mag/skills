@@ -5,15 +5,15 @@
   "description": "Use when users ask to discover, install, list, check, update, remove, back up, restore, sync, or initialize Agent Skills, mention `bunx skills`, `npx skills`, `skills.sh`, or `skills-lock.json`, ask \"find a skill for X\", or want help extending agent capabilities with installable skills.",
   "author": {
     "name": "xixu-me",
-    "github": "xixu-me"
+    "github": "https://github.com/xixu-me"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/xixu-me/skills/skills-cli",
-    "github": "https://github.com/xixu-me/skills",
-    "repo": "xixu-me/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -5,15 +5,15 @@
   "description": "Guidelines for using modern Dart features (v3.0 - v3.10) such as Records, \nPattern Matching, Switch Expressions, Extension Types, Class Modifiers, \nWildcards, Null-Aware Elements, and Dot Shorthands.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
+    "github": "https://github.com/flutter"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/dart-modern-features",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

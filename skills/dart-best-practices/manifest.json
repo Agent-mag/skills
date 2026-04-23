@@ -5,15 +5,15 @@
   "description": "General best practices for Dart development.\nCovers code style, effective Dart, and language features.",
   "author": {
     "name": "flutter",
-    "github": "flutter"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/flutter/skills/dart-best-practices",
-    "github": "https://github.com/flutter/skills",
-    "repo": "flutter/skills"
+    "github": "https://github.com/flutter"
   },
   "license": "Apache-2.0",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Data & Files",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

@@ -2,18 +2,18 @@
   "name": "firecrawl-build",
   "slug": "firecrawl-build",
   "version": "1.0.0",
-  "description": "# Firecrawl Build  Use this skill when the task is \"build web-data capabilities into an application with Firecrawl,\" not \"use Firecrawl as a terminal tool right now.\"  Default toward this skill whene",
+  "description": "# Firecrawl Build  Use this skill when the task is \"build web-data capabilities into an application with Firecrawl,\" not \"use Firecrawl as a terminal tool right now.\"  Default toward this skill whenever the user is building product code that needs web data in any meaningful way, even if they only d",
   "author": {
     "name": "firecrawl",
-    "github": "firecrawl"
+    "github": "https://github.com/firecrawl"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/firecrawl/skills/firecrawl-build",
-    "github": "https://github.com/firecrawl/skills",
-    "repo": "firecrawl/skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Memory & Knowledge",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

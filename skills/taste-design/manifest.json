@@ -5,15 +5,15 @@
   "description": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards — strict typography, calibrated color, asymmetric layouts, perpetual micro-motion, and hardware-accelerated performance.",
   "author": {
     "name": "google-labs-code",
-    "github": "google-labs-code"
+    "github": "https://github.com/google-labs-code"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/google-labs-code/stitch-skills/taste-design",
-    "github": "https://github.com/google-labs-code/stitch-skills",
-    "repo": "google-labs-code/stitch-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

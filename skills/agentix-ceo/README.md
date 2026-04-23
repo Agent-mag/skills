@@ -1,6 +1,8 @@
 # agentix-ceo
 
-Manage your team — create roles, assign tasks, spawn workers, and monitor progress
+> Manage your team — create roles, assign tasks, spawn workers, and monitor progress
+
+**Category:** Code & Compute · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Manage your team — create roles, assign tasks, spawn workers, and monitor prog
 npx agentmag add skill agentix-ceo
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **agentix-ceo** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **agentix-cloud**
 
-## Source
-
-- [skills.sh](https://skills.sh/agentix-cloud/skills/agentix-ceo)
-- [GitHub](https://github.com/agentix-cloud/skills)
-
-## License
-
-See source repo
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

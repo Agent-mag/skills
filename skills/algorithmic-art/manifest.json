@@ -5,15 +5,15 @@
   "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
   "author": {
     "name": "anthropics",
-    "github": "anthropics"
-  },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/anthropics/skills/algorithmic-art",
-    "github": "https://github.com/anthropics/skills",
-    "repo": "anthropics/skills"
+    "github": "https://github.com/anthropics"
   },
   "license": "Complete terms in LICENSE.txt",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

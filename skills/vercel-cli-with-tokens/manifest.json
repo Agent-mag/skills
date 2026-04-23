@@ -5,15 +5,15 @@
   "description": "Deploy and manage projects on Vercel using token-based authentication. Use when working with Vercel CLI using access tokens rather than interactive login — e.g. \"deploy to vercel\", \"set up vercel\", \"add environment variables to vercel\".",
   "author": {
     "name": "vercel-labs",
-    "github": "vercel-labs"
+    "github": "https://github.com/vercel-labs"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/vercel-labs/agent-skills/vercel-cli-with-tokens",
-    "github": "https://github.com/vercel-labs/agent-skills",
-    "repo": "vercel-labs/agent-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Code & Compute",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

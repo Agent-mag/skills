@@ -5,15 +5,15 @@
   "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
   "author": {
     "name": "vercel-labs",
-    "github": "vercel-labs"
+    "github": "https://github.com/vercel-labs"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/vercel-labs/agent-skills/web-design-guidelines",
-    "github": "https://github.com/vercel-labs/agent-skills",
-    "repo": "vercel-labs/agent-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Browsing & Search"
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

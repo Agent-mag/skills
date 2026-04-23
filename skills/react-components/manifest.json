@@ -5,15 +5,15 @@
   "description": "Converts Stitch designs into modular Vite and React components using system-level networking and AST-based validation.",
   "author": {
     "name": "google-labs-code",
-    "github": "google-labs-code"
+    "github": "https://github.com/google-labs-code"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/google-labs-code/stitch-skills/react-components",
-    "github": "https://github.com/google-labs-code/stitch-skills",
-    "repo": "google-labs-code/stitch-skills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Memory & Knowledge",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

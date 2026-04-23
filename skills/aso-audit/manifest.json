@@ -5,15 +5,15 @@
   "description": "When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user mentions 'ASO audit,' 'app store optimization,' 'optimize my app listing,' 'improve app visibility,' 'app store ranking,' 'audit my listing,' 'why aren't people downloading my app,' 'improve my app conversion,' 'keyword optimization for app,' or 'compare my app to competitors.' Use when the user shares an App Store or Google Play URL and wants to improve it.",
   "author": {
     "name": "coreyhaines31",
-    "github": "coreyhaines31"
+    "github": "https://github.com/coreyhaines31"
   },
-  "source": {
-    "type": "skills.sh",
-    "url": "https://skills.sh/coreyhaines31/marketingskills/aso-audit",
-    "github": "https://github.com/coreyhaines31/marketingskills",
-    "repo": "coreyhaines31/marketingskills"
-  },
-  "license": "See source repo",
+  "license": "MIT",
   "tags": [],
-  "category": "Design & UI"
+  "category": "Marketing & SEO",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
 }

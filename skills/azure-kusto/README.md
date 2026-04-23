@@ -1,6 +1,8 @@
 # azure-kusto
 
-Query and analyze data in Azure Data Explorer (Kusto/ADX) using KQL for log analytics, telemetry, and time series analysis. WHEN: KQL queries, Kusto database queries, Azure Data Explorer, ADX clusters, log analytics, time series data, IoT telemetry, anomaly detection.
+> Query and analyze data in Azure Data Explorer (Kusto/ADX) using KQL for log analytics, telemetry, and time series analysis. WHEN: KQL queries, Kusto database queries, Azure Data Explorer, ADX clusters, log analytics, time series data, IoT telemetry, anomaly detection.
+
+**Category:** Marketing & SEO · **License:** MIT
 
 ## Install
 
@@ -8,19 +10,22 @@ Query and analyze data in Azure Data Explorer (Kusto/ADX) using KQL for log anal
 npx agentmag add skill azure-kusto
 ```
 
+## What This Skill Does
+
+This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **azure-kusto** tasks.
+
+## Compatibility
+
+- Claude Code
+- Cursor
+- Windsurf
+- Copilot
+
+
 ## Author
 
 **microsoft**
 
-## Source
-
-- [skills.sh](https://skills.sh/microsoft/azure-skills/azure-kusto)
-- [GitHub](https://github.com/microsoft/azure-skills)
-
-## License
-
-MIT
-
 ---
 
-*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*
+Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.

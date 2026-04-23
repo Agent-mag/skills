@@ -1,0 +1,19 @@
+{
+  "name": "godot-gdscript-patterns",
+  "slug": "godot-gdscript-patterns",
+  "version": "1.0.0",
+  "description": "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices.",
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/wshobson/agents/godot-gdscript-patterns",
+    "github": "https://github.com/wshobson/agents",
+    "repo": "wshobson/agents"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

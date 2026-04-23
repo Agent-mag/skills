@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "description": "Develop AI-powered applications using Genkit in Go. Use when the user asks to build AI features, agents, flows, or tools in Go using Genkit, or when working with Genkit Go code involving generation, prompts, streaming, tool calling, or model providers.",
   "author": {
-    "name": "firebase",
-    "github": "firebase"
+    "name": "genkit-ai",
+    "github": "genkit-ai"
   },
   "source": {
     "type": "skills.sh",
-    "url": "https://skills.sh/firebase/agent-skills/developing-genkit-go",
-    "github": "https://github.com/firebase/agent-skills",
-    "repo": "firebase/agent-skills"
+    "url": "https://skills.sh/genkit-ai/skills/developing-genkit-go",
+    "github": "https://github.com/genkit-ai/skills",
+    "repo": "genkit-ai/skills"
   },
   "license": "See source repo",
   "tags": [],

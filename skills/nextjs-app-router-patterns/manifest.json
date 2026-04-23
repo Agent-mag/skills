@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-app-router-patterns",
+  "slug": "nextjs-app-router-patterns",
+  "version": "1.0.0",
+  "description": "Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching. Use when building Next.js applications, implementing SSR/SSG, or optimizing React Server Components.",
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/wshobson/agents/nextjs-app-router-patterns",
+    "github": "https://github.com/wshobson/agents",
+    "repo": "wshobson/agents"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

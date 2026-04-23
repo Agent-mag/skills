@@ -1,0 +1,26 @@
+[
+  {
+    "name": "shadcn*:*",
+    "description": "Tool: shadcn*:*"
+  },
+  {
+    "name": "mcp_shadcn*",
+    "description": "Tool: mcp_shadcn*"
+  },
+  {
+    "name": "Read",
+    "description": "Tool: Read"
+  },
+  {
+    "name": "Write",
+    "description": "Tool: Write"
+  },
+  {
+    "name": "Bash",
+    "description": "Tool: Bash"
+  },
+  {
+    "name": "web_fetch",
+    "description": "Tool: web_fetch"
+  }
+]

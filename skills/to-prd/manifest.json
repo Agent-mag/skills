@@ -1,0 +1,19 @@
+{
+  "name": "to-prd",
+  "slug": "to-prd",
+  "version": "1.0.0",
+  "description": "Turn the current conversation context into a PRD and submit it as a GitHub issue. Use when user wants to create a PRD from the current context.",
+  "author": {
+    "name": "mattpocock",
+    "github": "mattpocock"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/mattpocock/skills/to-prd",
+    "github": "https://github.com/mattpocock/skills",
+    "repo": "mattpocock/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

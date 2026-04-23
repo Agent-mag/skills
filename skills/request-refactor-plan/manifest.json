@@ -1,0 +1,19 @@
+{
+  "name": "request-refactor-plan",
+  "slug": "request-refactor-plan",
+  "version": "1.0.0",
+  "description": "Create a detailed refactor plan with tiny commits via user interview, then file it as a GitHub issue. Use when user wants to plan a refactor, create a refactoring RFC, or break a refactor into safe incremental steps.",
+  "author": {
+    "name": "mattpocock",
+    "github": "mattpocock"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/mattpocock/skills/request-refactor-plan",
+    "github": "https://github.com/mattpocock/skills",
+    "repo": "mattpocock/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

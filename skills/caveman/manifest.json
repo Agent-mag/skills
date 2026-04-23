@@ -2,18 +2,18 @@
   "name": "caveman",
   "slug": "caveman",
   "version": "1.0.0",
-  "description": "Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accuracy. Supports intensity levels: lite, full (default), ultra, wenyan-lite, wenyan-full, wenyan-ultra. Use when user says \"caveman mode\", \"talk like caveman\", \"use caveman\", \"less tokens\", \"be brief\", or invokes /caveman. Also auto-triggers when token efficiency is requested.\n",
+  "description": "Ultra-compressed communication mode. Cuts token usage ~75% by dropping filler, articles, and pleasantries while keeping full technical accuracy. Use when user says \"caveman mode\", \"talk like caveman\", \"use caveman\", \"less tokens\", \"be brief\", or invokes /caveman.\n",
   "author": {
-    "name": "juliusbrussee",
-    "github": "juliusbrussee"
+    "name": "mattpocock",
+    "github": "mattpocock"
   },
   "source": {
     "type": "skills.sh",
-    "url": "https://skills.sh/juliusbrussee/caveman/caveman",
-    "github": "https://github.com/juliusbrussee/caveman",
-    "repo": "juliusbrussee/caveman"
+    "url": "https://skills.sh/mattpocock/skills/caveman",
+    "github": "https://github.com/mattpocock/skills",
+    "repo": "mattpocock/skills"
   },
   "license": "See source repo",
   "tags": [],
-  "category": "Code & Compute"
+  "category": "Memory & Knowledge"
 }

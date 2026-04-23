@@ -1,0 +1,19 @@
+{
+  "name": "dbt-transformation-patterns",
+  "slug": "dbt-transformation-patterns",
+  "version": "1.0.0",
+  "description": "Master dbt (data build tool) for analytics engineering with model organization, testing, documentation, and incremental strategies. Use when building data transformations, creating data models, or implementing analytics engineering best practices.",
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/wshobson/agents/dbt-transformation-patterns",
+    "github": "https://github.com/wshobson/agents",
+    "repo": "wshobson/agents"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

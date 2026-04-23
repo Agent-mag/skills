@@ -1,0 +1,19 @@
+{
+  "name": "python-type-safety",
+  "slug": "python-type-safety",
+  "version": "1.0.0",
+  "description": "Python type safety with type hints, generics, protocols, and strict type checking. Use when adding type annotations, implementing generic classes, defining structural interfaces, or configuring mypy/pyright.",
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/wshobson/agents/python-type-safety",
+    "github": "https://github.com/wshobson/agents",
+    "repo": "wshobson/agents"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

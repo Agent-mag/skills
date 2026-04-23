@@ -1,0 +1,19 @@
+{
+  "name": "deployment-pipeline-design",
+  "slug": "deployment-pipeline-design",
+  "version": "1.0.0",
+  "description": "Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use this skill when designing zero-downtime deployment pipelines, implementing canary rollout strategies, setting up multi-environment promotion workflows, or debugging failed deployment gates in CI/CD.",
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/wshobson/agents/deployment-pipeline-design",
+    "github": "https://github.com/wshobson/agents",
+    "repo": "wshobson/agents"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

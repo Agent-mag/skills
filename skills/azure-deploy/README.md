@@ -1,0 +1,26 @@
+# azure-deploy
+
+Execute Azure deployments for ALREADY-PREPARED applications that have existing .azure/deployment-plan.md and infrastructure files. DO NOT use this skill when the user asks to CREATE a new application — use azure-prepare instead. This skill runs azd up, azd deploy, terraform apply, and az deployment commands with built-in error recovery. Requires .azure/deployment-plan.md from azure-prepare and validated status from azure-validate. WHEN: "run azd up", "run azd deploy", "execute deployment", "push to production", "push to cloud", "go live", "ship it", "bicep deploy", "terraform apply", "publish to Azure", "launch on Azure". DO NOT USE WHEN: "create and deploy", "build and deploy", "create a new app", "set up infrastructure", "create and deploy to Azure using Terraform" — use azure-prepare for these.
+
+## Install
+
+```bash
+npx agentmag add skill azure-deploy
+```
+
+## Author
+
+**microsoft**
+
+## Source
+
+- [skills.sh](https://skills.sh/microsoft/azure-skills/azure-deploy)
+- [GitHub](https://github.com/microsoft/azure-skills)
+
+## License
+
+MIT
+
+---
+
+*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*

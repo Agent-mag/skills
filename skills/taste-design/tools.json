@@ -1,0 +1,14 @@
+[
+  {
+    "name": "StitchMCP",
+    "description": "Tool: StitchMCP"
+  },
+  {
+    "name": "Read",
+    "description": "Tool: Read"
+  },
+  {
+    "name": "Write",
+    "description": "Tool: Write"
+  }
+]

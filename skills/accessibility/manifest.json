@@ -1,0 +1,19 @@
+{
+  "name": "accessibility",
+  "slug": "accessibility",
+  "version": "1.0.0",
+  "description": "Audit and improve web accessibility following WCAG 2.2 guidelines. Use when asked to \"improve accessibility\", \"a11y audit\", \"WCAG compliance\", \"screen reader support\", \"keyboard navigation\", or \"make accessible\".",
+  "author": {
+    "name": "addyosmani",
+    "github": "addyosmani"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/addyosmani/web-quality-skills/accessibility",
+    "github": "https://github.com/addyosmani/web-quality-skills",
+    "repo": "addyosmani/web-quality-skills"
+  },
+  "license": "MIT",
+  "tags": [],
+  "category": "Browsing & Search"
+}

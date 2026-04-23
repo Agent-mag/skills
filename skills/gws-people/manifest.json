@@ -1,0 +1,19 @@
+{
+  "name": "gws-people",
+  "slug": "gws-people",
+  "version": "1.0.0",
+  "description": "Google People: Manage contacts and profiles.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-people",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "stitch-loop",
+  "slug": "stitch-loop",
+  "version": "1.0.0",
+  "description": "Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern",
+  "author": {
+    "name": "google-labs-code",
+    "github": "google-labs-code"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/google-labs-code/stitch-skills/stitch-loop",
+    "github": "https://github.com/google-labs-code/stitch-skills",
+    "repo": "google-labs-code/stitch-skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

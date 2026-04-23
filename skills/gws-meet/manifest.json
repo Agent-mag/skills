@@ -1,0 +1,19 @@
+{
+  "name": "gws-meet",
+  "slug": "gws-meet",
+  "version": "1.0.0",
+  "description": "Manage Google Meet conferences.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-meet",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

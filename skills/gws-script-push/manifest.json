@@ -1,0 +1,19 @@
+{
+  "name": "gws-script-push",
+  "slug": "gws-script-push",
+  "version": "1.0.0",
+  "description": "Google Apps Script: Upload local files to an Apps Script project.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-script-push",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Data & Files"
+}

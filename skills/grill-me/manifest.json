@@ -1,0 +1,19 @@
+{
+  "name": "grill-me",
+  "slug": "grill-me",
+  "version": "1.0.0",
+  "description": "Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions \"grill me\".",
+  "author": {
+    "name": "mattpocock",
+    "github": "mattpocock"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/mattpocock/skills/grill-me",
+    "github": "https://github.com/mattpocock/skills",
+    "repo": "mattpocock/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

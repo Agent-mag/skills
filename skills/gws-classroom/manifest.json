@@ -1,0 +1,19 @@
+{
+  "name": "gws-classroom",
+  "slug": "gws-classroom",
+  "version": "1.0.0",
+  "description": "Google Classroom: Manage classes, rosters, and coursework.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-classroom",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

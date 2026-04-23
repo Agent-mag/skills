@@ -1,0 +1,19 @@
+{
+  "name": "web-quality-audit",
+  "slug": "web-quality-audit",
+  "version": "1.0.0",
+  "description": "Comprehensive web quality audit covering performance, accessibility, SEO, and best practices. Use when asked to \"audit my site\", \"review web quality\", \"run lighthouse audit\", \"check page quality\", or \"optimize my website\".",
+  "author": {
+    "name": "addyosmani",
+    "github": "addyosmani"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/addyosmani/web-quality-skills/web-quality-audit",
+    "github": "https://github.com/addyosmani/web-quality-skills",
+    "repo": "addyosmani/web-quality-skills"
+  },
+  "license": "MIT",
+  "tags": [],
+  "category": "Browsing & Search"
+}

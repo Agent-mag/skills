@@ -1,0 +1,19 @@
+{
+  "name": "gws-modelarmor-sanitize-prompt",
+  "slug": "gws-modelarmor-sanitize-prompt",
+  "version": "1.0.0",
+  "description": "Google Model Armor: Sanitize a user prompt through a Model Armor template.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-modelarmor-sanitize-prompt",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Design & UI"
+}

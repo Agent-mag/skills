@@ -1,0 +1,19 @@
+{
+  "name": "gws-drive-upload",
+  "slug": "gws-drive-upload",
+  "version": "1.0.0",
+  "description": "Google Drive: Upload a file with automatic metadata.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-drive-upload",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Data & Files"
+}

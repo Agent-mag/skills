@@ -1,0 +1,19 @@
+{
+  "name": "firecrawl-build",
+  "slug": "firecrawl-build",
+  "version": "1.0.0",
+  "description": "# Firecrawl Build  Use this skill when the task is \"build web-data capabilities into an application with Firecrawl,\" not \"use Firecrawl as a terminal tool right now.\"  Default toward this skill whene",
+  "author": {
+    "name": "firecrawl",
+    "github": "firecrawl"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/firecrawl/skills/firecrawl-build",
+    "github": "https://github.com/firecrawl/skills",
+    "repo": "firecrawl/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

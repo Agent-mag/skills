@@ -1,0 +1,19 @@
+{
+  "name": "gws-keep",
+  "slug": "gws-keep",
+  "version": "1.0.0",
+  "description": "Manage Google Keep notes.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-keep",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Design & UI"
+}

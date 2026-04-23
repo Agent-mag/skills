@@ -1,0 +1,26 @@
+# core
+
+Core agent-browser usage guide. Read this before running any agent-browser commands. Covers the snapshot-and-ref workflow, navigating pages, interacting with elements (click, fill, type, select), extracting text and data, taking screenshots, managing tabs, handling forms and auth, waiting for content, running multiple browser sessions in parallel, and troubleshooting common failures. Use when the user asks to interact with a website, fill a form, click something, extract data, take a screenshot, log into a site, test a web app, or automate any browser task.
+
+## Install
+
+```bash
+npx agentmag add skill core
+```
+
+## Author
+
+**vercel-labs**
+
+## Source
+
+- [skills.sh](https://skills.sh/vercel-labs/agent-browser/core)
+- [GitHub](https://github.com/vercel-labs/agent-browser)
+
+## License
+
+See source repo
+
+---
+
+*Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills). Synced from the skills.sh ecosystem.*

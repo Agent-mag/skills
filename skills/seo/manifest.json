@@ -1,0 +1,19 @@
+{
+  "name": "seo",
+  "slug": "seo",
+  "version": "1.0.0",
+  "description": "Optimize for search engine visibility and ranking. Use when asked to \"improve SEO\", \"optimize for search\", \"fix meta tags\", \"add structured data\", \"sitemap optimization\", or \"search engine optimization\".",
+  "author": {
+    "name": "addyosmani",
+    "github": "addyosmani"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/addyosmani/web-quality-skills/seo",
+    "github": "https://github.com/addyosmani/web-quality-skills",
+    "repo": "addyosmani/web-quality-skills"
+  },
+  "license": "MIT",
+  "tags": [],
+  "category": "Browsing & Search"
+}

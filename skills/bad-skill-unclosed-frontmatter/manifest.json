@@ -1,0 +1,19 @@
+{
+  "name": "bad-skill-unclosed-frontmatter",
+  "slug": "bad-skill-unclosed-frontmatter",
+  "version": "1.0.0",
+  "description": "` block.",
+  "author": {
+    "name": "larksuite",
+    "github": "larksuite"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/larksuite/cli/bad-skill-unclosed-frontmatter",
+    "github": "https://github.com/larksuite/cli",
+    "repo": "larksuite/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

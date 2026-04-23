@@ -1,0 +1,22 @@
+[
+  {
+    "name": "stitch*:*",
+    "description": "Tool: stitch*:*"
+  },
+  {
+    "name": "chrome*:*",
+    "description": "Tool: chrome*:*"
+  },
+  {
+    "name": "Read",
+    "description": "Tool: Read"
+  },
+  {
+    "name": "Write",
+    "description": "Tool: Write"
+  },
+  {
+    "name": "Bash",
+    "description": "Tool: Bash"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "scaffold-exercises",
+  "slug": "scaffold-exercises",
+  "version": "1.0.0",
+  "description": "Create exercise directory structures with sections, problems, solutions, and explainers that pass linting. Use when user wants to scaffold exercises, create exercise stubs, or set up a new course section.",
+  "author": {
+    "name": "mattpocock",
+    "github": "mattpocock"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/mattpocock/skills/scaffold-exercises",
+    "github": "https://github.com/mattpocock/skills",
+    "repo": "mattpocock/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

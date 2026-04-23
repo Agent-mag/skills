@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Read",
+    "description": "Tool: Read"
+  },
+  {
+    "name": "Write",
+    "description": "Tool: Write"
+  }
+]

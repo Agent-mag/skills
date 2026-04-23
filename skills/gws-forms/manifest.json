@@ -1,0 +1,19 @@
+{
+  "name": "gws-forms",
+  "slug": "gws-forms",
+  "version": "1.0.0",
+  "description": "Read and write Google Forms.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-forms",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Data & Files"
+}

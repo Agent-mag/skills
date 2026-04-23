@@ -1,0 +1,22 @@
+[
+  {
+    "name": "stitch*:*",
+    "description": "Tool: stitch*:*"
+  },
+  {
+    "name": "Bash",
+    "description": "Tool: Bash"
+  },
+  {
+    "name": "Read",
+    "description": "Tool: Read"
+  },
+  {
+    "name": "Write",
+    "description": "Tool: Write"
+  },
+  {
+    "name": "web_fetch",
+    "description": "Tool: web_fetch"
+  }
+]

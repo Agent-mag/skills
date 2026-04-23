@@ -1,0 +1,19 @@
+{
+  "name": "gws-events-renew",
+  "slug": "gws-events-renew",
+  "version": "1.0.0",
+  "description": "Google Workspace Events: Renew/reactivate Workspace Events subscriptions.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-events-renew",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

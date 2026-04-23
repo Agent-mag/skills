@@ -1,0 +1,19 @@
+{
+  "name": "gws-calendar-agenda",
+  "slug": "gws-calendar-agenda",
+  "version": "1.0.0",
+  "description": "Google Calendar: Show upcoming events across all calendars.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-calendar-agenda",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Communication"
+}

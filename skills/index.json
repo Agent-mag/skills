@@ -1,12 +1,24 @@
 {
-  "total": 264,
-  "updatedAt": "2026-04-23T18:26:31.893Z",
+  "total": 492,
+  "updatedAt": "2026-04-23T18:38:23.632Z",
   "source": "Scraped from skills.sh ecosystem via GitHub",
   "skills": [
     {
       "slug": "ab-test-setup",
       "name": "ab-test-setup",
       "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "accessibility",
+      "name": "accessibility",
+      "author": "addyosmani",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "accessibility-compliance",
+      "name": "accessibility-compliance",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -40,10 +52,28 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "agentix-ceo",
+      "name": "agentix-ceo",
+      "author": "agentix-cloud",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "agentspace",
+      "name": "agentspace",
+      "author": "agentspace-so",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "ai-seo",
       "name": "ai-seo",
       "author": "coreyhaines31",
       "category": "Browsing & Search"
+    },
+    {
+      "slug": "airflow-dag-patterns",
+      "name": "airflow-dag-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
     },
     {
       "slug": "airunway-aks-setup",
@@ -64,9 +94,27 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "angular-migration",
+      "name": "angular-migration",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "animate",
       "name": "animate",
       "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "anti-reversing-techniques",
+      "name": "anti-reversing-techniques",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "api-design-principles",
+      "name": "api-design-principles",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -76,15 +124,45 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "architecture-decision-records",
+      "name": "architecture-decision-records",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "architecture-patterns",
+      "name": "architecture-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "aso-audit",
       "name": "aso-audit",
       "author": "coreyhaines31",
       "category": "Design & UI"
     },
     {
+      "slug": "async-python-patterns",
+      "name": "async-python-patterns",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "attack-tree-construction",
+      "name": "attack-tree-construction",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "audit",
       "name": "audit",
       "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "auth-implementation-patterns",
+      "name": "auth-implementation-patterns",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -220,6 +298,12 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "backtesting-frameworks",
+      "name": "backtesting-frameworks",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "bad-skill",
       "name": "bad-skill",
       "author": "larksuite",
@@ -229,6 +313,54 @@
       "slug": "bad-skill-no-frontmatter",
       "name": "bad-skill-no-frontmatter",
       "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "bad-skill-unclosed-frontmatter",
+      "name": "bad-skill-unclosed-frontmatter",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "bash-defensive-patterns",
+      "name": "bash-defensive-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "bats-testing-patterns",
+      "name": "bats-testing-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "bazel-build-optimization",
+      "name": "bazel-build-optimization",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "best-practices",
+      "name": "better-auth-best-practices",
+      "author": "better-auth",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "billing-automation",
+      "name": "billing-automation",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "binary-analysis-patterns",
+      "name": "binary-analysis-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "block-no-verify-hook",
+      "name": "block-no-verify-hook",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -270,8 +402,8 @@
     {
       "slug": "caveman",
       "name": "caveman",
-      "author": "juliusbrussee",
-      "category": "Code & Compute"
+      "author": "mattpocock",
+      "category": "Memory & Knowledge"
     },
     {
       "slug": "caveman-commit",
@@ -295,6 +427,18 @@
       "slug": "caveman-review",
       "name": "caveman-review",
       "author": "juliusbrussee",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "changelog-automation",
+      "name": "changelog-automation",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "chatgpt-image-2",
+      "name": "chatgpt-image-2",
+      "author": "agentspace-so",
       "category": "Code & Compute"
     },
     {
@@ -322,6 +466,12 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "code-review-excellence",
+      "name": "code-review-excellence",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "cold-email",
       "name": "cold-email",
       "author": "coreyhaines31",
@@ -337,6 +487,12 @@
       "slug": "community-marketing",
       "name": "community-marketing",
       "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "competitive-landscape",
+      "name": "competitive-landscape",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -368,6 +524,12 @@
       "name": "content-strategy",
       "author": "coreyhaines31",
       "category": "Browsing & Search"
+    },
+    {
+      "slug": "context-driven-development",
+      "name": "context-driven-development",
+      "author": "wshobson",
+      "category": "Code & Compute"
     },
     {
       "slug": "convex",
@@ -422,6 +584,30 @@
       "name": "core",
       "author": "vercel-labs",
       "category": "Browsing & Search"
+    },
+    {
+      "slug": "core-web-vitals",
+      "name": "core-web-vitals",
+      "author": "addyosmani",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "cost-optimization",
+      "name": "cost-optimization",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "cqrs-implementation",
+      "name": "cqrs-implementation",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "create-auth",
+      "name": "create-auth-skill",
+      "author": "better-auth",
+      "category": "Code & Compute"
     },
     {
       "slug": "critique",
@@ -490,9 +676,51 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "data-quality-frameworks",
+      "name": "data-quality-frameworks",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "data-storytelling",
+      "name": "data-storytelling",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "database-migration",
+      "name": "database-migration",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dbt-transformation-patterns",
+      "name": "dbt-transformation-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "debugging-strategies",
+      "name": "debugging-strategies",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "defi-protocol-templates",
+      "name": "defi-protocol-templates",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "delight",
       "name": "delight",
       "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dependency-upgrade",
+      "name": "dependency-upgrade",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -505,6 +733,30 @@
       "slug": "deploy-to-vercel",
       "name": "deploy-to-vercel",
       "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "deployment-pipeline-design",
+      "name": "deployment-pipeline-design",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "design-an-interface",
+      "name": "design-an-interface",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "design-md",
+      "name": "design-md",
+      "author": "google-labs-code",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "design-system-patterns",
+      "name": "design-system-patterns",
+      "author": "wshobson",
       "category": "Browsing & Search"
     },
     {
@@ -522,25 +774,25 @@
     {
       "slug": "developing-genkit-dart",
       "name": "developing-genkit-dart",
-      "author": "firebase",
+      "author": "genkit-ai",
       "category": "Code & Compute"
     },
     {
       "slug": "developing-genkit-go",
       "name": "developing-genkit-go",
-      "author": "firebase",
+      "author": "genkit-ai",
       "category": "Code & Compute"
     },
     {
       "slug": "developing-genkit-js",
       "name": "developing-genkit-js",
-      "author": "firebase",
+      "author": "genkit-ai",
       "category": "Code & Compute"
     },
     {
       "slug": "developing-genkit-python",
       "name": "developing-genkit-python",
-      "author": "firebase",
+      "author": "genkit-ai",
       "category": "Code & Compute"
     },
     {
@@ -562,6 +814,12 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "distributed-tracing",
+      "name": "distributed-tracing",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "doc-coauthoring",
       "name": "doc-coauthoring",
       "author": "anthropics",
@@ -580,6 +838,30 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "domain-model",
+      "name": "domain-model",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dotnet-backend-patterns",
+      "name": "dotnet-backend-patterns",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "e2e-testing-patterns",
+      "name": "e2e-testing-patterns",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "edit-article",
+      "name": "edit-article",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "electron",
       "name": "electron",
       "author": "vercel-labs",
@@ -592,9 +874,51 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "emailAndPassword",
+      "name": "email-and-password-best-practices",
+      "author": "better-auth",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "embedding-strategies",
+      "name": "embedding-strategies",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "employment-contract-templates",
+      "name": "employment-contract-templates",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "enhance-prompt",
+      "name": "enhance-prompt",
+      "author": "google-labs-code",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "entra-app-registration",
       "name": "entra-app-registration",
       "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "error-handling-patterns",
+      "name": "error-handling-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "evaluation-methodology",
+      "name": "evaluation-methodology",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "event-store-design",
+      "name": "event-store-design",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -602,6 +926,12 @@
       "name": "executing-plans",
       "author": "obra",
       "category": "Code & Compute"
+    },
+    {
+      "slug": "fastapi-templates",
+      "name": "fastapi-templates",
+      "author": "wshobson",
+      "category": "Browsing & Search"
     },
     {
       "slug": "find-skills",
@@ -672,6 +1002,12 @@
     {
       "slug": "firecrawl-agent",
       "name": "firecrawl-agent",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-build",
+      "name": "firecrawl-build",
       "author": "firecrawl",
       "category": "Browsing & Search"
     },
@@ -898,9 +1234,63 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "gdpr-data-handling",
+      "name": "gdpr-data-handling",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "git-advanced-workflows",
+      "name": "git-advanced-workflows",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "git-guardrails-claude-code",
+      "name": "git-guardrails-claude-code",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "github-actions-docs",
       "name": "github-actions-docs",
       "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "github-actions-templates",
+      "name": "github-actions-templates",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "github-triage",
+      "name": "github-triage",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gitlab-ci-patterns",
+      "name": "gitlab-ci-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gitops-workflow",
+      "name": "gitops-workflow",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "go-concurrency-patterns",
+      "name": "go-concurrency-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "godot-gdscript-patterns",
+      "name": "godot-gdscript-patterns",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -922,9 +1312,27 @@
       "category": "Design & UI"
     },
     {
+      "slug": "gpt-image-2",
+      "name": "gpt-image-2",
+      "author": "agentspace-so",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "gpt-tasteskill",
       "name": "gpt-taste",
       "author": "leonxlnx",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "grafana-dashboards",
+      "name": "grafana-dashboards",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "grill-me",
+      "name": "grill-me",
+      "author": "mattpocock",
       "category": "Code & Compute"
     },
     {
@@ -934,10 +1342,226 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "gws-admin-reports",
+      "name": "gws-admin-reports",
+      "author": "googleworkspace",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gws-calendar",
+      "name": "gws-calendar",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-calendar-agenda",
+      "name": "gws-calendar-agenda",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-calendar-insert",
+      "name": "gws-calendar-insert",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-chat",
+      "name": "gws-chat",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-chat-send",
+      "name": "gws-chat-send",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-classroom",
+      "name": "gws-classroom",
+      "author": "googleworkspace",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gws-docs",
+      "name": "gws-docs",
+      "author": "googleworkspace",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "gws-docs-write",
+      "name": "gws-docs-write",
+      "author": "googleworkspace",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "gws-drive",
+      "name": "gws-drive",
+      "author": "googleworkspace",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "gws-drive-upload",
+      "name": "gws-drive-upload",
+      "author": "googleworkspace",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "gws-events",
+      "name": "gws-events",
+      "author": "googleworkspace",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gws-events-renew",
+      "name": "gws-events-renew",
+      "author": "googleworkspace",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gws-events-subscribe",
+      "name": "gws-events-subscribe",
+      "author": "googleworkspace",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "gws-forms",
+      "name": "gws-forms",
+      "author": "googleworkspace",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "gws-gmail",
+      "name": "gws-gmail",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-gmail-forward",
+      "name": "gws-gmail-forward",
+      "author": "googleworkspace",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gws-gmail-read",
+      "name": "gws-gmail-read",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-gmail-reply",
+      "name": "gws-gmail-reply",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-gmail-reply-all",
+      "name": "gws-gmail-reply-all",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-gmail-send",
+      "name": "gws-gmail-send",
+      "author": "googleworkspace",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gws-gmail-triage",
+      "name": "gws-gmail-triage",
+      "author": "googleworkspace",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "gws-gmail-watch",
+      "name": "gws-gmail-watch",
+      "author": "googleworkspace",
+      "category": "Communication"
+    },
+    {
+      "slug": "gws-keep",
+      "name": "gws-keep",
+      "author": "googleworkspace",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "gws-meet",
+      "name": "gws-meet",
+      "author": "googleworkspace",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gws-modelarmor",
+      "name": "gws-modelarmor",
+      "author": "googleworkspace",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "gws-modelarmor-create-template",
+      "name": "gws-modelarmor-create-template",
+      "author": "googleworkspace",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "gws-modelarmor-sanitize-prompt",
+      "name": "gws-modelarmor-sanitize-prompt",
+      "author": "googleworkspace",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "gws-modelarmor-sanitize-response",
+      "name": "gws-modelarmor-sanitize-response",
+      "author": "googleworkspace",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "gws-people",
+      "name": "gws-people",
+      "author": "googleworkspace",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gws-script",
+      "name": "gws-script",
+      "author": "googleworkspace",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "gws-script-push",
+      "name": "gws-script-push",
+      "author": "googleworkspace",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "hads",
+      "name": "hads",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "harden",
       "name": "harden",
       "author": "pbakaus",
       "category": "Code & Compute"
+    },
+    {
+      "slug": "helm-chart-scaffolding",
+      "name": "helm-chart-scaffolding",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "hybrid-cloud-networking",
+      "name": "hybrid-cloud-networking",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "hybrid-search-implementation",
+      "name": "hybrid-search-implementation",
+      "author": "wshobson",
+      "category": "Browsing & Search"
     },
     {
       "slug": "hyperframes",
@@ -970,9 +1594,63 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "improve-codebase-architecture",
+      "name": "improve-codebase-architecture",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "incident-runbook-templates",
+      "name": "incident-runbook-templates",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "interaction-design",
+      "name": "interaction-design",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "internal-comms",
       "name": "internal-comms",
       "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "istio-traffic-management",
+      "name": "istio-traffic-management",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "javascript-testing-patterns",
+      "name": "javascript-testing-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "k8s-manifest-generator",
+      "name": "k8s-manifest-generator",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "k8s-security-policies",
+      "name": "k8s-security-policies",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "kpi-dashboard-design",
+      "name": "kpi-dashboard-design",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "langchain-architecture",
+      "name": "langchain-architecture",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -1132,6 +1810,24 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "linkerd-patterns",
+      "name": "linkerd-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "llm-evaluation",
+      "name": "llm-evaluation",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "market-sizing-analysis",
+      "name": "market-sizing-analysis",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "marketing-ideas",
       "name": "marketing-ideas",
       "author": "coreyhaines31",
@@ -1150,9 +1846,33 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "memory-forensics",
+      "name": "memory-forensics",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "memory-safety-patterns",
+      "name": "memory-safety-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "microservices-patterns",
+      "name": "microservices-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "microsoft-foundry",
       "name": "microsoft-foundry",
       "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "migrate-to-shoehorn",
+      "name": "migrate-to-shoehorn",
+      "author": "mattpocock",
       "category": "Code & Compute"
     },
     {
@@ -1160,6 +1880,54 @@
       "name": "minimalist-ui",
       "author": "leonxlnx",
       "category": "Browsing & Search"
+    },
+    {
+      "slug": "ml-pipeline-workflow",
+      "name": "ml-pipeline-workflow",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "mobile-android-design",
+      "name": "mobile-android-design",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "mobile-ios-design",
+      "name": "mobile-ios-design",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "modern-javascript-patterns",
+      "name": "modern-javascript-patterns",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "monorepo-management",
+      "name": "monorepo-management",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "mtls-configuration",
+      "name": "mtls-configuration",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "multi-cloud-architecture",
+      "name": "multi-cloud-architecture",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "multi-reviewer-patterns",
+      "name": "multi-reviewer-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
     },
     {
       "slug": "next-best-practices",
@@ -1180,9 +1948,51 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "nextjs-app-router-patterns",
+      "name": "nextjs-app-router-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "nft-standards",
+      "name": "nft-standards",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "nodejs-backend-patterns",
+      "name": "nodejs-backend-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "nx-workspace-patterns",
+      "name": "nx-workspace-patterns",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "obsidian-vault",
+      "name": "obsidian-vault",
+      "author": "mattpocock",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "on-call-handoff-patterns",
+      "name": "on-call-handoff-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "onboarding-cro",
       "name": "onboarding-cro",
       "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "openapi-spec-generation",
+      "name": "openapi-spec-generation",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -1202,6 +2012,12 @@
       "name": "optimize",
       "author": "pbakaus",
       "category": "Browsing & Search"
+    },
+    {
+      "slug": "organization",
+      "name": "organization-best-practices",
+      "author": "better-auth",
+      "category": "Data & Files"
     },
     {
       "slug": "output-skill",
@@ -1228,15 +2044,45 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "parallel-debugging",
+      "name": "parallel-debugging",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "parallel-feature-development",
+      "name": "parallel-feature-development",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "paypal-integration",
+      "name": "paypal-integration",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
       "slug": "paywall-upgrade-cro",
       "name": "paywall-upgrade-cro",
       "author": "coreyhaines31",
       "category": "Code & Compute"
     },
     {
+      "slug": "pci-compliance",
+      "name": "pci-compliance",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "pdf",
       "name": "pdf",
       "author": "anthropics",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "performance",
+      "name": "performance",
+      "author": "addyosmani",
       "category": "Browsing & Search"
     },
     {
@@ -1255,6 +2101,18 @@
       "slug": "popup-cro",
       "name": "popup-cro",
       "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "postgresql",
+      "name": "postgresql-table-design",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "postmortem-writing",
+      "name": "postmortem-writing",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -1288,10 +2146,136 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "projection-patterns",
+      "name": "projection-patterns",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "prometheus-configuration",
+      "name": "prometheus-configuration",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "prompt-engineering-patterns",
+      "name": "prompt-engineering-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "protect-mcp-setup",
+      "name": "protect-mcp-setup",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "protocol-reverse-engineering",
+      "name": "protocol-reverse-engineering",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "python-anti-patterns",
+      "name": "python-anti-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-background-jobs",
+      "name": "python-background-jobs",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "python-code-style",
+      "name": "python-code-style",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-configuration",
+      "name": "python-configuration",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-design-patterns",
+      "name": "python-design-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-error-handling",
+      "name": "python-error-handling",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-observability",
+      "name": "python-observability",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-packaging",
+      "name": "python-packaging",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-performance-optimization",
+      "name": "python-performance-optimization",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-project-structure",
+      "name": "python-project-structure",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-resilience",
+      "name": "python-resilience",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-resource-management",
+      "name": "python-resource-management",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-testing-patterns",
+      "name": "python-testing-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "python-type-safety",
+      "name": "python-type-safety",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "qa",
+      "name": "qa",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "quieter",
       "name": "quieter",
       "author": "pbakaus",
       "category": "Code & Compute"
+    },
+    {
+      "slug": "rag-implementation",
+      "name": "rag-implementation",
+      "author": "wshobson",
+      "category": "Browsing & Search"
     },
     {
       "slug": "react-best-practices",
@@ -1300,9 +2284,39 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "react-components",
+      "name": "react:components",
+      "author": "google-labs-code",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "react-modernization",
+      "name": "react-modernization",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "react-native-architecture",
+      "name": "react-native-architecture",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "react-native-design",
+      "name": "react-native-design",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "react-native-skills",
       "name": "vercel-react-native-skills",
       "author": "vercel-labs",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "react-state-management",
+      "name": "react-state-management",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -1336,9 +2350,27 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "remotion",
+      "name": "remotion",
+      "author": "google-labs-code",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "request-refactor-plan",
+      "name": "request-refactor-plan",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "requesting-code-review",
       "name": "requesting-code-review",
       "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "responsive-design",
+      "name": "responsive-design",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -1348,9 +2380,27 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "risk-metrics-calculation",
+      "name": "risk-metrics-calculation",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "running-claude-code-via-litellm-copilot",
       "name": "running-claude-code-via-litellm-copilot",
       "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "rust-async-patterns",
+      "name": "rust-async-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "saga-orchestration",
+      "name": "saga-orchestration",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -1360,15 +2410,51 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "sast-configuration",
+      "name": "sast-configuration",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "scaffold-exercises",
+      "name": "scaffold-exercises",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "schema-markup",
       "name": "schema-markup",
       "author": "coreyhaines31",
       "category": "Browsing & Search"
     },
     {
+      "slug": "screen-reader-testing",
+      "name": "screen-reader-testing",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "secrets-management",
+      "name": "secrets-management",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "secure-linux-web-hosting",
       "name": "secure-linux-web-hosting",
       "author": "xixu-me",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "security-requirement-extraction",
+      "name": "security-requirement-extraction",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "seo",
+      "name": "seo",
+      "author": "addyosmani",
       "category": "Browsing & Search"
     },
     {
@@ -1378,16 +2464,52 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "service-mesh-observability",
+      "name": "service-mesh-observability",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "setup-pre-commit",
+      "name": "setup-pre-commit",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "shadcn-ui",
+      "name": "shadcn-ui",
+      "author": "google-labs-code",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "shape",
       "name": "shape",
       "author": "pbakaus",
       "category": "Code & Compute"
     },
     {
+      "slug": "shellcheck-configuration",
+      "name": "shellcheck-configuration",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "signed-audit-trails-recipe",
+      "name": "signed-audit-trails-recipe",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
       "slug": "signup-flow-cro",
       "name": "signup-flow-cro",
       "author": "coreyhaines31",
       "category": "Code & Compute"
+    },
+    {
+      "slug": "similarity-search-patterns",
+      "name": "similarity-search-patterns",
+      "author": "wshobson",
+      "category": "Browsing & Search"
     },
     {
       "slug": "site-architecture",
@@ -1420,6 +2542,12 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "slo-implementation",
+      "name": "slo-implementation",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "social-content",
       "name": "social-content",
       "author": "coreyhaines31",
@@ -1432,10 +2560,64 @@
       "category": "Browsing & Search"
     },
     {
+      "slug": "solidity-security",
+      "name": "solidity-security",
+      "author": "wshobson",
+      "category": "Memory & Knowledge"
+    },
+    {
+      "slug": "spark-optimization",
+      "name": "spark-optimization",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "sql-optimization-patterns",
+      "name": "sql-optimization-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "startup-financial-modeling",
+      "name": "startup-financial-modeling",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "startup-metrics-framework",
+      "name": "startup-metrics-framework",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "stitch-design",
+      "name": "stitch-design",
+      "author": "google-labs-code",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "stitch-loop",
+      "name": "stitch-loop",
+      "author": "google-labs-code",
+      "category": "Browsing & Search"
+    },
+    {
       "slug": "stitch-skill",
       "name": "stitch-design-taste",
       "author": "leonxlnx",
       "category": "Code & Compute"
+    },
+    {
+      "slug": "stride-analysis-patterns",
+      "name": "stride-analysis-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "stripe-integration",
+      "name": "stripe-integration",
+      "author": "wshobson",
+      "category": "Browsing & Search"
     },
     {
       "slug": "subagent-driven-development",
@@ -1462,15 +2644,69 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "tailwind-design-system",
+      "name": "tailwind-design-system",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "task-coordination-strategies",
+      "name": "task-coordination-strategies",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "taste-design",
+      "name": "taste-design",
+      "author": "google-labs-code",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "taste-skill",
       "name": "design-taste-frontend",
       "author": "leonxlnx",
       "category": "Code & Compute"
     },
     {
+      "slug": "tdd",
+      "name": "tdd",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "team-communication-protocols",
+      "name": "team-communication-protocols",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "team-composition-analysis",
+      "name": "team-composition-analysis",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "team-composition-patterns",
+      "name": "team-composition-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "template",
       "name": "template-skill",
       "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "temporal-python-testing",
+      "name": "temporal-python-testing",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "terraform-module-library",
+      "name": "terraform-module-library",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -1486,6 +2722,60 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "threat-mitigation-mapping",
+      "name": "threat-mitigation-mapping",
+      "author": "wshobson",
+      "category": "Memory & Knowledge"
+    },
+    {
+      "slug": "to-issues",
+      "name": "to-issues",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "to-prd",
+      "name": "to-prd",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "track-management",
+      "name": "track-management",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "triage-issue",
+      "name": "triage-issue",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "turborepo",
+      "name": "turborepo",
+      "author": "vercel",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "turborepo-caching",
+      "name": "turborepo-caching",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "twoFactor",
+      "name": "two-factor-authentication-best-practices",
+      "author": "better-auth",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "typescript-advanced-types",
+      "name": "typescript-advanced-types",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
       "slug": "typeset",
       "name": "typeset",
       "author": "pbakaus",
@@ -1495,6 +2785,18 @@
       "slug": "tzst",
       "name": "tzst",
       "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "ubiquitous-language",
+      "name": "ubiquitous-language",
+      "author": "mattpocock",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "unity-ecs-patterns",
+      "name": "unity-ecs-patterns",
+      "author": "wshobson",
       "category": "Code & Compute"
     },
     {
@@ -1516,6 +2818,18 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "uv-package-manager",
+      "name": "uv-package-manager",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "vector-index-tuning",
+      "name": "vector-index-tuning",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
       "slug": "vercel-cli-with-tokens",
       "name": "vercel-cli-with-tokens",
       "author": "vercel-labs",
@@ -1534,15 +2848,45 @@
       "category": "Code & Compute"
     },
     {
+      "slug": "visual-design-foundations",
+      "name": "visual-design-foundations",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "wcag-audit-patterns",
+      "name": "wcag-audit-patterns",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
       "slug": "web-artifacts-builder",
       "name": "web-artifacts-builder",
       "author": "anthropics",
       "category": "Browsing & Search"
     },
     {
+      "slug": "web-component-design",
+      "name": "web-component-design",
+      "author": "wshobson",
+      "category": "Browsing & Search"
+    },
+    {
       "slug": "web-design-guidelines",
       "name": "web-design-guidelines",
       "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "web-quality-audit",
+      "name": "web-quality-audit",
+      "author": "addyosmani",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "web3-testing",
+      "name": "web3-testing",
+      "author": "wshobson",
       "category": "Browsing & Search"
     },
     {
@@ -1556,6 +2900,24 @@
       "name": "website-to-hyperframes",
       "author": "heygen-com",
       "category": "Browsing & Search"
+    },
+    {
+      "slug": "workflow-orchestration-patterns",
+      "name": "workflow-orchestration-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "workflow-patterns",
+      "name": "workflow-patterns",
+      "author": "wshobson",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "write-a-skill",
+      "name": "write-a-skill",
+      "author": "mattpocock",
+      "category": "Code & Compute"
     },
     {
       "slug": "writing-plans",
@@ -1585,6 +2947,12 @@
       "slug": "xlsx",
       "name": "xlsx",
       "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "zoom-out",
+      "name": "zoom-out",
+      "author": "mattpocock",
       "category": "Code & Compute"
     }
   ]

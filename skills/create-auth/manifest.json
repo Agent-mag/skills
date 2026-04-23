@@ -1,0 +1,19 @@
+{
+  "name": "create-auth-skill",
+  "slug": "create-auth",
+  "version": "1.0.0",
+  "description": "Scaffold and implement authentication in TypeScript/JavaScript apps using Better Auth. Detect frameworks, configure database adapters, set up route handlers, add OAuth providers, and create auth UI pages. Use when users want to add login, sign-up, or authentication to a new or existing project with Better Auth.",
+  "author": {
+    "name": "better-auth",
+    "github": "better-auth"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/better-auth/skills/create-auth",
+    "github": "https://github.com/better-auth/skills",
+    "repo": "better-auth/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

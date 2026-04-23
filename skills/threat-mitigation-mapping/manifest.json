@@ -1,0 +1,19 @@
+{
+  "name": "threat-mitigation-mapping",
+  "slug": "threat-mitigation-mapping",
+  "version": "1.0.0",
+  "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/wshobson/agents/threat-mitigation-mapping",
+    "github": "https://github.com/wshobson/agents",
+    "repo": "wshobson/agents"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Memory & Knowledge"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gws-modelarmor",
+  "slug": "gws-modelarmor",
+  "version": "1.0.0",
+  "description": "Google Model Armor: Filter user-generated content for safety.",
+  "author": {
+    "name": "googleworkspace",
+    "github": "googleworkspace"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/googleworkspace/cli/gws-modelarmor",
+    "github": "https://github.com/googleworkspace/cli",
+    "repo": "googleworkspace/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Design & UI"
+}

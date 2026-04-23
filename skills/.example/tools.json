@@ -1,0 +1,21 @@
+[
+  {
+    "name": "web_search",
+    "description": "Search the web for current information on a given query",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "query": {
+          "type": "string",
+          "description": "The search query"
+        },
+        "max_results": {
+          "type": "integer",
+          "description": "Maximum number of results to return",
+          "default": 5
+        }
+      },
+      "required": ["query"]
+    }
+  }
+]

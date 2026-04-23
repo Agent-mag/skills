@@ -1,0 +1,12 @@
+{
+  "name": "example-skill",
+  "version": "1.0.0",
+  "description": "An example skill to demonstrate the registry format",
+  "category": "Browsing & Search",
+  "author": {
+    "name": "Agent Mag",
+    "github": "Agent-mag"
+  },
+  "tags": ["example", "template", "reference"],
+  "license": "MIT"
+}

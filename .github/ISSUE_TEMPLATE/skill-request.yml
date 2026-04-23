@@ -1,0 +1,36 @@
+name: Skill Request
+description: Suggest a new skill for the registry
+labels: ["skill-request"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What should this skill do?
+      description: Describe the capability in one or two sentences.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Browsing & Search
+        - Code & Compute
+        - Data & Files
+        - Communication
+        - Memory & Knowledge
+        - Multimodal
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: When would a builder use this? What problem does it solve?
+    validations:
+      required: true
+  - type: textarea
+    id: existing
+    attributes:
+      label: Existing alternatives
+      description: Are there any existing skills or tools that partially solve this?

@@ -2,7 +2,7 @@
   "name": "bad-skill-no-frontmatter",
   "slug": "bad-skill-no-frontmatter",
   "version": "1.0.0",
-  "description": "# No Frontmatter Skill  This skill completely lacks a YAML frontmatter.",
+  "description": "This skill completely lacks a YAML frontmatter.",
   "author": {
     "name": "larksuite",
     "github": "https://github.com/larksuite"

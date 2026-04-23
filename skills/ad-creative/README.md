@@ -1,8 +1,28 @@
-# ad-creative
+<div align="center">
 
-> When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'ad performance optimization,' 'write me some ads,' 'Facebook ad copy,' 'Google ad headlines,' 'LinkedIn ad text,' or 'I need more ad variations.' Use this whenever someone needs to produce ad copy at scale or iterate on existing ads. For campaign strategy and targeting, see paid-ads. For landing page copy, see copywriting.
+<a href="https://theagentmag.com"><img src="https://raw.githubusercontent.com/Agent-mag/.github/main/profile/agentmag-banner-github.png" alt="Agent Mag" width="100%" /></a>
 
-**Category:** Marketing & SEO · **License:** MIT
+# Ad Creative
+
+**When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterat...**
+
+[![Browse Skills](https://img.shields.io/badge/Browse_Skills-theagentmag.com/skills-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theagentmag.com/skills)
+[![Category](https://img.shields.io/badge/Category-Marketing_%26_SEO-000?style=for-the-badge)](https://theagentmag.com/skills)
+[![Agent Mag](https://img.shields.io/badge/by-Agent_Mag-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjJoMjBMMTIgMnoiLz48L3N2Zz4=)](https://theagentmag.com)
+
+[Browse Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [Website](https://theagentmag.com)
+
+</div>
+
+---
+
+## What This Skill Is
+
+**Ad Creative** is an installable Agent Mag skill bundle. It gives your coding agent a focused prompt, optional tool definitions, and lightweight configuration so it can perform this job consistently inside your workflow.
+
+## What It Does
+
+When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterat...
 
 ## Install
 
@@ -10,9 +30,23 @@
 npx agentmag add skill ad-creative
 ```
 
-## What This Skill Does
+## What's Included
 
-This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **ad-creative** tasks.
+| File | Purpose |
+|------|---------|
+| `manifest.json` | Registry metadata, category, compatibility, and tags |
+| `prompt.md` | The core instructions that shape agent behavior |
+| `tools.json` | Optional tool definitions the skill expects |
+| `config.json` | Optional configuration values and defaults |
+
+## When To Use It
+
+- What platform? (Google Ads, Meta, LinkedIn, TikTok, Twitter/X)
+- What ad format? (Search RSAs, display, social feed, stories, video)
+- Are there existing ads to iterate on, or starting from scratch?
+- What are you promoting? (Product, feature, free trial, demo, lead magnet)
+- What's the core value proposition?
+- What makes this different from competitors?
 
 ## Compatibility
 
@@ -21,11 +55,27 @@ This skill provides a reusable prompt configuration for AI coding agents. When i
 - Windsurf
 - Copilot
 
+## Setup Notes
 
-## Author
+- No required configuration is declared for this skill.
+- Install it and review `prompt.md` for any optional adjustments.
 
-**coreyhaines31**
+## Tooling
+
+- No explicit tool definitions are bundled with this skill.
+
+## Registry Metadata
+
+- **Category:** Marketing & SEO
+- **License:** MIT
+- **Slug:** `ad-creative`
 
 ---
 
-Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.
+<div align="center">
+
+**Built for the [Agent Mag Skills Registry](https://theagentmag.com/skills)**
+
+[Website](https://theagentmag.com) &nbsp;&middot;&nbsp; [Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [GitHub](https://github.com/Agent-mag)
+
+</div>

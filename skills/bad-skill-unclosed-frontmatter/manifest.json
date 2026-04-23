@@ -2,7 +2,7 @@
   "name": "bad-skill-unclosed-frontmatter",
   "slug": "bad-skill-unclosed-frontmatter",
   "version": "1.0.0",
-  "description": "` block.",
+  "description": "",
   "author": {
     "name": "larksuite",
     "github": "https://github.com/larksuite"

@@ -2,7 +2,7 @@
   "name": "use-my-browser",
   "slug": "use-my-browser",
   "version": "1.0.0",
-  "description": "Use when work depends on the user's live browser session or visible rendered state rather than static fetches, especially for browser debugging contexts or DevTools-selected elements or requests, logged-in dashboards or CMS flows, localhost apps, forms, uploads, downloads, media inspection, DOM or iframe inspection, Shadow DOM, or browser failures that look like soft 404s, auth walls, anti-bot checks, or rate limits.",
+  "description": "Use when work depends on the user's live browser session or visible rendered state rather than static fetches, especially for browser debugging contexts or DevTools-selected elements or requests, logged-in dashboards or CMS flows, localhost apps, forms, uploads, downloads, media inspection, DOM o...",
   "author": {
     "name": "xixu-me",
     "github": "https://github.com/xixu-me"

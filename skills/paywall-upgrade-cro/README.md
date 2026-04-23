@@ -1,8 +1,28 @@
-# paywall-upgrade-cro
+<div align="center">
 
-> When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions "paywall," "upgrade screen," "upgrade modal," "upsell," "feature gate," "convert free to paid," "freemium conversion," "trial expiration screen," "limit reached screen," "plan upgrade prompt," "in-app pricing," "free users won't upgrade," "trial to paid conversion," or "how do I get users to pay." Use this for any in-product moment where you're asking users to upgrade. Distinct from public pricing pages (see page-cro) — this focuses on in-product upgrade moments where the user has already experienced value. For pricing decisions, see pricing-strategy.
+<a href="https://theagentmag.com"><img src="https://raw.githubusercontent.com/Agent-mag/.github/main/profile/agentmag-banner-github.png" alt="Agent Mag" width="100%" /></a>
 
-**Category:** Marketing & SEO · **License:** MIT
+# Paywall Upgrade Cro
+
+**When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions "paywall," "upgrade screen," "upgrade modal," "upsell," "feature gate," "convert free to paid," "freemium conversion," "trial expiration screen," "limit rea...**
+
+[![Browse Skills](https://img.shields.io/badge/Browse_Skills-theagentmag.com/skills-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theagentmag.com/skills)
+[![Category](https://img.shields.io/badge/Category-Marketing_%26_SEO-000?style=for-the-badge)](https://theagentmag.com/skills)
+[![Agent Mag](https://img.shields.io/badge/by-Agent_Mag-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjJoMjBMMTIgMnoiLz48L3N2Zz4=)](https://theagentmag.com)
+
+[Browse Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [Website](https://theagentmag.com)
+
+</div>
+
+---
+
+## What This Skill Is
+
+**Paywall Upgrade Cro** is an installable Agent Mag skill bundle. It gives your coding agent a focused prompt, optional tool definitions, and lightweight configuration so it can perform this job consistently inside your workflow.
+
+## What It Does
+
+When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions "paywall," "upgrade screen," "upgrade modal," "upsell," "feature gate," "convert free to paid," "freemium conversion," "trial expiration screen," "limit rea...
 
 ## Install
 
@@ -10,9 +30,23 @@
 npx agentmag add skill paywall-upgrade-cro
 ```
 
-## What This Skill Does
+## What's Included
 
-This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **paywall-upgrade-cro** tasks.
+| File | Purpose |
+|------|---------|
+| `manifest.json` | Registry metadata, category, compatibility, and tags |
+| `prompt.md` | The core instructions that shape agent behavior |
+| `tools.json` | Optional tool definitions the skill expects |
+| `config.json` | Optional configuration values and defaults |
+
+## When To Use It
+
+- User should have experienced real value first
+- Upgrade should feel like natural next step
+- Timing: After "aha moment," not before
+- Demonstrate the value of paid features
+- Preview what they're missing
+- Make the upgrade feel tangible
 
 ## Compatibility
 
@@ -21,11 +55,27 @@ This skill provides a reusable prompt configuration for AI coding agents. When i
 - Windsurf
 - Copilot
 
+## Setup Notes
 
-## Author
+- No required configuration is declared for this skill.
+- Install it and review `prompt.md` for any optional adjustments.
 
-**coreyhaines31**
+## Tooling
+
+- No explicit tool definitions are bundled with this skill.
+
+## Registry Metadata
+
+- **Category:** Marketing & SEO
+- **License:** MIT
+- **Slug:** `paywall-upgrade-cro`
 
 ---
 
-Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.
+<div align="center">
+
+**Built for the [Agent Mag Skills Registry](https://theagentmag.com/skills)**
+
+[Website](https://theagentmag.com) &nbsp;&middot;&nbsp; [Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [GitHub](https://github.com/Agent-mag)
+
+</div>

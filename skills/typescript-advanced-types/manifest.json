@@ -2,7 +2,7 @@
   "name": "typescript-advanced-types",
   "slug": "typescript-advanced-types",
   "version": "1.0.0",
-  "description": "Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe applications. Use when implementing complex type logic, creating reusable type utilities, or ensuring compile-time type safety in TypeScript projects.",
+  "description": "Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe applications. Use when implementing complex type logic, creating reusable type utilities, or ensuring compile-time type safety in TypeScript pr...",
   "author": {
     "name": "wshobson",
     "github": "https://github.com/wshobson"

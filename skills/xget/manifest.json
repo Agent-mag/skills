@@ -2,7 +2,7 @@
   "name": "xget",
   "slug": "xget",
   "version": "1.0.0",
-  "description": "Use when tasks involve Xget URL rewriting, registry/package/container/API acceleration, integrating Xget into Git, download tools, package managers, container builds, AI SDKs, CI/CD, deployment, self-hosting, or adapting commands and config from the live README `Use Cases` section into files, environments, shells, or base URLs.",
+  "description": "Use when tasks involve Xget URL rewriting, registry/package/container/API acceleration, integrating Xget into Git, download tools, package managers, container builds, AI SDKs, CI/CD, deployment, self-hosting, or adapting commands and config from the live README `Use Cases` section into files, env...",
   "author": {
     "name": "xixu-me",
     "github": "https://github.com/xixu-me"

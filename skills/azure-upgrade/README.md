@@ -1,8 +1,28 @@
-# azure-upgrade
+<div align="center">
 
-> Assess and upgrade Azure workloads between plans, tiers, or SKUs within Azure. Generates assessment reports and automates upgrade steps. WHEN: upgrade Consumption to Flex Consumption, upgrade Azure Functions plan, migrate hosting plan, upgrade Functions SKU, move to Flex Consumption, upgrade Azure service tier, change hosting plan, upgrade function app plan, migrate App Service to Container Apps.
+<a href="https://theagentmag.com"><img src="https://raw.githubusercontent.com/Agent-mag/.github/main/profile/agentmag-banner-github.png" alt="Agent Mag" width="100%" /></a>
 
-**Category:** Code & Compute · **License:** MIT
+# Azure Upgrade
+
+**Assess and upgrade Azure workloads between plans, tiers, or SKUs within Azure. Generates assessment reports and automates upgrade steps. WHEN: upgrade Consumption to Flex Consumption, upgrade Azure Functions plan, migrate hosting plan, upgrade Functions SKU, move to Flex Consumption, upgrade Azur...**
+
+[![Browse Skills](https://img.shields.io/badge/Browse_Skills-theagentmag.com/skills-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theagentmag.com/skills)
+[![Category](https://img.shields.io/badge/Category-Code_%26_Compute-000?style=for-the-badge)](https://theagentmag.com/skills)
+[![Agent Mag](https://img.shields.io/badge/by-Agent_Mag-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjJoMjBMMTIgMnoiLz48L3N2Zz4=)](https://theagentmag.com)
+
+[Browse Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [Website](https://theagentmag.com)
+
+</div>
+
+---
+
+## What This Skill Is
+
+**Azure Upgrade** is an installable Agent Mag skill bundle. It gives your coding agent a focused prompt, optional tool definitions, and lightweight configuration so it can perform this job consistently inside your workflow.
+
+## What It Does
+
+Assess and upgrade Azure workloads between plans, tiers, or SKUs within Azure. Generates assessment reports and automates upgrade steps. WHEN: upgrade Consumption to Flex Consumption, upgrade Azure Functions plan, migrate hosting plan, upgrade Functions SKU, move to Flex Consumption, upgrade Azur...
 
 ## Install
 
@@ -10,9 +30,23 @@
 npx agentmag add skill azure-upgrade
 ```
 
-## What This Skill Does
+## What's Included
 
-This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **azure-upgrade** tasks.
+| File | Purpose |
+|------|---------|
+| `manifest.json` | Registry metadata, category, compatibility, and tags |
+| `prompt.md` | The core instructions that shape agent behavior |
+| `tools.json` | Optional tool definitions the skill expects |
+| `config.json` | Optional configuration values and defaults |
+
+## When To Use It
+
+- [Global Rules](references/global-rules.md)
+- [Workflow Details](references/workflow-details.md)
+- [Consumption to Flex Consumption](references/services/functions/consumption-to-flex.md)
+- [Assessment](references/services/functions/assessment.md)
+- [Automation Scripts](references/services/functions/automation.md)
+- `azure-validate` — for thorough post-upgrade validation
 
 ## Compatibility
 
@@ -21,11 +55,27 @@ This skill provides a reusable prompt configuration for AI coding agents. When i
 - Windsurf
 - Copilot
 
+## Setup Notes
 
-## Author
+- No required configuration is declared for this skill.
+- Install it and review `prompt.md` for any optional adjustments.
 
-**microsoft**
+## Tooling
+
+- No explicit tool definitions are bundled with this skill.
+
+## Registry Metadata
+
+- **Category:** Code & Compute
+- **License:** MIT
+- **Slug:** `azure-upgrade`
 
 ---
 
-Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.
+<div align="center">
+
+**Built for the [Agent Mag Skills Registry](https://theagentmag.com/skills)**
+
+[Website](https://theagentmag.com) &nbsp;&middot;&nbsp; [Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [GitHub](https://github.com/Agent-mag)
+
+</div>

@@ -1,8 +1,28 @@
-# tdd
+<div align="center">
 
-> Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions "red-green-refactor", wants integration tests, or asks for test-first development.
+<a href="https://theagentmag.com"><img src="https://raw.githubusercontent.com/Agent-mag/.github/main/profile/agentmag-banner-github.png" alt="Agent Mag" width="100%" /></a>
 
-**Category:** Data & Files · **License:** MIT
+# Tdd
+
+**Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions "red-green-refactor", wants integration tests, or asks for test-first development.**
+
+[![Browse Skills](https://img.shields.io/badge/Browse_Skills-theagentmag.com/skills-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theagentmag.com/skills)
+[![Category](https://img.shields.io/badge/Category-Data_%26_Files-000?style=for-the-badge)](https://theagentmag.com/skills)
+[![Agent Mag](https://img.shields.io/badge/by-Agent_Mag-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjJoMjBMMTIgMnoiLz48L3N2Zz4=)](https://theagentmag.com)
+
+[Browse Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [Website](https://theagentmag.com)
+
+</div>
+
+---
+
+## What This Skill Is
+
+**Tdd** is an installable Agent Mag skill bundle. It gives your coding agent a focused prompt, optional tool definitions, and lightweight configuration so it can perform this job consistently inside your workflow.
+
+## What It Does
+
+Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions "red-green-refactor", wants integration tests, or asks for test-first development.
 
 ## Install
 
@@ -10,9 +30,23 @@
 npx agentmag add skill tdd
 ```
 
-## What This Skill Does
+## What's Included
 
-This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **tdd** tasks.
+| File | Purpose |
+|------|---------|
+| `manifest.json` | Registry metadata, category, compatibility, and tags |
+| `prompt.md` | The core instructions that shape agent behavior |
+| `tools.json` | Optional tool definitions the skill expects |
+| `config.json` | Optional configuration values and defaults |
+
+## When To Use It
+
+- Tests written in bulk test _imagined_ behavior, not _actual_ behavior
+- You end up testing the _shape_ of things (data structures, function signatures) rather than user-facing behavior
+- Tests become insensitive to real changes - they pass when behavior breaks, fail when behavior is fine
+- You outrun your headlights, committing to test structure before understanding the implementation
+- [ ] Confirm with user what interface changes are needed
+- [ ] Confirm with user which behaviors to test (prioritize)
 
 ## Compatibility
 
@@ -21,11 +55,27 @@ This skill provides a reusable prompt configuration for AI coding agents. When i
 - Windsurf
 - Copilot
 
+## Setup Notes
 
-## Author
+- No required configuration is declared for this skill.
+- Install it and review `prompt.md` for any optional adjustments.
 
-**mattpocock**
+## Tooling
+
+- No explicit tool definitions are bundled with this skill.
+
+## Registry Metadata
+
+- **Category:** Data & Files
+- **License:** MIT
+- **Slug:** `tdd`
 
 ---
 
-Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.
+<div align="center">
+
+**Built for the [Agent Mag Skills Registry](https://theagentmag.com/skills)**
+
+[Website](https://theagentmag.com) &nbsp;&middot;&nbsp; [Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [GitHub](https://github.com/Agent-mag)
+
+</div>

@@ -1,8 +1,28 @@
-# microsoft-foundry
+<div align="center">
 
-> Deploy, evaluate, and manage Foundry agents end-to-end: Docker build, ACR push, hosted/prompt agent create, container start, batch eval, prompt optimization, prompt optimizer workflows, agent.yaml, dataset curation from traces. USE FOR: deploy agent to Foundry, hosted agent, create agent, invoke agent, evaluate agent, run batch eval, optimize prompt, improve prompt, prompt optimization, prompt optimizer, improve agent instructions, optimize agent instructions, optimize system prompt, deploy model, Foundry project, RBAC, role assignment, permissions, quota, capacity, region, troubleshoot agent, deployment failure, create dataset from traces, dataset versioning, eval trending, create AI Services, Cognitive Services, create Foundry resource, provision resource, knowledge index, agent monitoring, customize deployment, onboard, availability. DO NOT USE FOR: Azure Functions, App Service, general Azure deploy (use azure-deploy), general Azure prep (use azure-prepare).
+<a href="https://theagentmag.com"><img src="https://raw.githubusercontent.com/Agent-mag/.github/main/profile/agentmag-banner-github.png" alt="Agent Mag" width="100%" /></a>
 
-**Category:** Memory & Knowledge · **License:** MIT
+# Microsoft Foundry
+
+**Deploy, evaluate, and manage Foundry agents end-to-end: Docker build, ACR push, hosted/prompt agent create, container start, batch eval, prompt optimization, prompt optimizer workflows, agent.yaml, dataset curation from traces. USE FOR: deploy agent to Foundry, hosted agent, create agent, invoke ...**
+
+[![Browse Skills](https://img.shields.io/badge/Browse_Skills-theagentmag.com/skills-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theagentmag.com/skills)
+[![Category](https://img.shields.io/badge/Category-Code_%26_Compute-000?style=for-the-badge)](https://theagentmag.com/skills)
+[![Agent Mag](https://img.shields.io/badge/by-Agent_Mag-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjJoMjBMMTIgMnoiLz48L3N2Zz4=)](https://theagentmag.com)
+
+[Browse Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [Website](https://theagentmag.com)
+
+</div>
+
+---
+
+## What This Skill Is
+
+**Microsoft Foundry** is an installable Agent Mag skill bundle. It gives your coding agent a focused prompt, optional tool definitions, and lightweight configuration so it can perform this job consistently inside your workflow.
+
+## What It Does
+
+Deploy, evaluate, and manage Foundry agents end-to-end: Docker build, ACR push, hosted/prompt agent create, container start, batch eval, prompt optimization, prompt optimizer workflows, agent.yaml, dataset curation from traces. USE FOR: deploy agent to Foundry, hosted agent, create agent, invoke ...
 
 ## Install
 
@@ -10,9 +30,23 @@
 npx agentmag add skill microsoft-foundry
 ```
 
-## What This Skill Does
+## What's Included
 
-This skill provides a reusable prompt configuration for AI coding agents. When installed, it adds structured instructions that guide your agent's behavior for **microsoft-foundry** tasks.
+| File | Purpose |
+|------|---------|
+| `manifest.json` | Registry metadata, category, compatibility, and tags |
+| `prompt.md` | The core instructions that shape agent behavior |
+| `tools.json` | Optional tool definitions the skill expects |
+| `config.json` | Optional configuration values and defaults |
+
+## When To Use It
+
+- `agent-metadata.yaml` is the required source of truth for environment-specific project settings, agent names, registry details, and evaluati
+- `datasets/` and `evaluators/` are local cache folders. Reuse them when they are current, and ask before refreshing or overwriting them.
+- See [Agent Metadata Contract](references/agent-metadata-contract.md) for the canonical schema and workflow rules.
+- [Standard Agent Setup](references/standard-agent-setup.md) - Standard capability-host setup with customer-managed data, search, and AI Servi
+- [Private Network Standard Agent Setup](references/private-network-standard-agent-setup.md) - Standard setup with VNet isolation and private
+- **One match** → use that agent root.
 
 ## Compatibility
 
@@ -21,11 +55,27 @@ This skill provides a reusable prompt configuration for AI coding agents. When i
 - Windsurf
 - Copilot
 
+## Setup Notes
 
-## Author
+- No required configuration is declared for this skill.
+- Install it and review `prompt.md` for any optional adjustments.
 
-**microsoft**
+## Tooling
+
+- No explicit tool definitions are bundled with this skill.
+
+## Registry Metadata
+
+- **Category:** Code & Compute
+- **License:** MIT
+- **Slug:** `microsoft-foundry`
 
 ---
 
-Part of the [Agent Mag Skills Registry](https://theagentmag.com/skills) — the open catalog of AI agent skills.
+<div align="center">
+
+**Built for the [Agent Mag Skills Registry](https://theagentmag.com/skills)**
+
+[Website](https://theagentmag.com) &nbsp;&middot;&nbsp; [Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [GitHub](https://github.com/Agent-mag)
+
+</div>

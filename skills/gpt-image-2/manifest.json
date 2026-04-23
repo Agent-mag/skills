@@ -2,7 +2,7 @@
   "name": "gpt-image-2",
   "slug": "gpt-image-2",
   "version": "1.0.0",
-  "description": "Generate images with GPT Image 2 (ChatGPT Images 2.0) inside Claude Code, using your existing ChatGPT Plus or Pro subscription — no separate OpenAI access, no per-image billing. Supports text-to-image, image-to-image editing, style transfer, and multi-reference composition via the local Codex CLI. Triggers on \"gpt image 2\", \"gpt-image-2\", \"ChatGPT Images 2.0\", \"image 2\", or any explicit ask to generate or edit an image through the user's ChatGPT plan.\n",
+  "description": "Generate images with GPT Image 2 (ChatGPT Images 2.0) inside Claude Code, using your existing ChatGPT Plus or Pro subscription — no separate OpenAI access, no per-image billing. Supports text-to-image, image-to-image editing, style transfer, and multi-reference composition via the local Codex CLI...",
   "author": {
     "name": "agentspace-so",
     "github": "https://github.com/agentspace-so"

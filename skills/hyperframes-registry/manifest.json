@@ -2,7 +2,7 @@
   "name": "hyperframes-registry",
   "slug": "hyperframes-registry",
   "version": "1.0.0",
-  "description": "Install and wire registry blocks and components into HyperFrames compositions. Use when running hyperframes add, installing a block or component, wiring an installed item into index.html, or working with hyperframes.json. Covers the add command, install locations, block sub-composition wiring, component snippet merging, and registry discovery.",
+  "description": "Install and wire registry blocks and components into HyperFrames compositions. Use when running hyperframes add, installing a block or component, wiring an installed item into index.html, or working with hyperframes.json. Covers the add command, install locations, block sub-composition wiring, co...",
   "author": {
     "name": "heygen-com",
     "github": "https://github.com/heygen-com"

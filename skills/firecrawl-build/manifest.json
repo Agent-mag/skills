@@ -2,7 +2,7 @@
   "name": "firecrawl-build",
   "slug": "firecrawl-build",
   "version": "1.0.0",
-  "description": "# Firecrawl Build  Use this skill when the task is \"build web-data capabilities into an application with Firecrawl,\" not \"use Firecrawl as a terminal tool right now.\"  Default toward this skill whenever the user is building product code that needs web data in any meaningful way, even if they only d",
+  "description": "Use this skill when the task is \"build web-data capabilities into an application with Firecrawl,\" not \"use Firecrawl as a terminal tool right now.\"",
   "author": {
     "name": "firecrawl",
     "github": "https://github.com/firecrawl"

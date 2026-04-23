@@ -2,7 +2,7 @@
   "name": "bad-skill",
   "slug": "bad-skill",
   "version": "1.0.0",
-  "description": "# Bad Skill  This skill is missing required fields like name and description.",
+  "description": "This skill is missing required fields like name and description.",
   "author": {
     "name": "larksuite",
     "github": "https://github.com/larksuite"

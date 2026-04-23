@@ -1,0 +1,19 @@
+{
+  "name": "claude-design-hyperframes",
+  "slug": "claude-design-hyperframes",
+  "version": "1.0.0",
+  "description": "Claude Design entry point for HyperFrames. Produce renderable HyperFrames videos in Claude Design with a working in-pane preview. Use for any request to create a video, animation, launch teaser, editorial explainer, product tour, social reel, or motion deliverable.",
+  "author": {
+    "name": "heygen-com",
+    "github": "https://github.com/heygen-com"
+  },
+  "license": "MIT",
+  "tags": [],
+  "category": "Design & UI",
+  "compatibleWith": [
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Copilot"
+  ]
+}

@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Agent-mag/.github/main/profile/agentmag-readme-banner.png" alt="Agent Mag" width="540" />
-
-<br /><br />
+<a href="https://theagentmag.com"><img src="https://raw.githubusercontent.com/Agent-mag/.github/main/profile/agentmag-banner-github.png" alt="Agent Mag" width="100%" /></a>
 
 # Agent Skills Registry
 
@@ -10,6 +8,9 @@
 
 [![Browse Skills](https://img.shields.io/badge/Browse_Skills-theagentmag.com/skills-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theagentmag.com/skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-000?style=for-the-badge)](LICENSE)
+[![Agent Mag](https://img.shields.io/badge/by-Agent_Mag-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjJoMjBMMTIgMnoiLz48L3N2Zz4=)](https://theagentmag.com)
+
+[Browse Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [Website](https://theagentmag.com)
 
 </div>
 
@@ -164,3 +165,13 @@ This repo is the **source of truth** for skill definitions. The Agent Mag platfo
 MIT — see [LICENSE](LICENSE) for details.
 
 All skills contributed to this registry are released under the MIT license.
+
+---
+
+<div align="center">
+
+**Built by [Agent Mag](https://theagentmag.com)** — the magazine for AI agent builders.
+
+[Website](https://theagentmag.com) &nbsp;&middot;&nbsp; [Tools](https://theagentmag.com/tools) &nbsp;&middot;&nbsp; [Skills](https://theagentmag.com/skills) &nbsp;&middot;&nbsp; [Newsletter](https://theagentmag.com/newsletter) &nbsp;&middot;&nbsp; [GitHub](https://github.com/Agent-mag)
+
+</div>

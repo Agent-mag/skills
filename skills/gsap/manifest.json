@@ -1,0 +1,19 @@
+{
+  "name": "gsap",
+  "slug": "gsap",
+  "version": "1.0.0",
+  "description": "GSAP animation reference for HyperFrames. Covers gsap.to(), from(), fromTo(), easing, stagger, defaults, timelines (gsap.timeline(), position parameter, labels, nesting, playback), and performance (transforms, will-change, quickTo). Use when writing GSAP animations in HyperFrames compositions.",
+  "author": {
+    "name": "heygen-com",
+    "github": "heygen-com"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/heygen-com/hyperframes/gsap",
+    "github": "https://github.com/heygen-com/hyperframes",
+    "repo": "heygen-com/hyperframes"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

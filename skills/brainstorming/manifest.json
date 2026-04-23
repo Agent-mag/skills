@@ -1,0 +1,19 @@
+{
+  "name": "brainstorming",
+  "slug": "brainstorming",
+  "version": "1.0.0",
+  "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+  "author": {
+    "name": "obra",
+    "github": "obra"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/obra/superpowers/brainstorming",
+    "github": "https://github.com/obra/superpowers",
+    "repo": "obra/superpowers"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

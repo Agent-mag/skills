@@ -1,0 +1,19 @@
+{
+  "name": "firebase-basics",
+  "slug": "firebase-basics",
+  "version": "1.0.0",
+  "description": "Provides foundational setup, authentication, and project management workflows for Firebase using the Firebase CLI. Use when checking Firebase CLI version (must use 'npx -y firebase-tools@latest --version'), initializing a Firebase environment, authenticating, setting active projects, or executing core Firebase CLI commands.",
+  "author": {
+    "name": "firebase",
+    "github": "firebase"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/firebase/agent-skills/firebase-basics",
+    "github": "https://github.com/firebase/agent-skills",
+    "repo": "firebase/agent-skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

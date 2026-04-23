@@ -1,0 +1,19 @@
+{
+  "name": "executing-plans",
+  "slug": "executing-plans",
+  "version": "1.0.0",
+  "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+  "author": {
+    "name": "obra",
+    "github": "obra"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/obra/superpowers/executing-plans",
+    "github": "https://github.com/obra/superpowers",
+    "repo": "obra/superpowers"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

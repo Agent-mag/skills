@@ -1,0 +1,19 @@
+{
+  "name": "bad-skill-no-frontmatter",
+  "slug": "bad-skill-no-frontmatter",
+  "version": "1.0.0",
+  "description": "# No Frontmatter Skill  This skill completely lacks a YAML frontmatter.",
+  "author": {
+    "name": "larksuite",
+    "github": "larksuite"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/larksuite/cli/bad-skill-no-frontmatter",
+    "github": "https://github.com/larksuite/cli",
+    "repo": "larksuite/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

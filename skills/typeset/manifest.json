@@ -1,0 +1,19 @@
+{
+  "name": "typeset",
+  "slug": "typeset",
+  "version": "1.0.0",
+  "description": "Improves typography by fixing font choices, hierarchy, sizing, weight, and readability so text feels intentional. Use when the user mentions fonts, type, readability, text hierarchy, sizing looks off, or wants more polished, intentional typography.",
+  "author": {
+    "name": "pbakaus",
+    "github": "pbakaus"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/pbakaus/impeccable/typeset",
+    "github": "https://github.com/pbakaus/impeccable",
+    "repo": "pbakaus/impeccable"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

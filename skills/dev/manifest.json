@@ -1,0 +1,19 @@
+{
+  "name": "dev",
+  "slug": "dev",
+  "version": "1.0.0",
+  "description": "Development workflows for the playwright-cli repository. Use when the user asks about rolling dependencies, releasing, or other repo maintenance tasks.",
+  "author": {
+    "name": "microsoft",
+    "github": "microsoft"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/microsoft/playwright-cli/dev",
+    "github": "https://github.com/microsoft/playwright-cli",
+    "repo": "microsoft/playwright-cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

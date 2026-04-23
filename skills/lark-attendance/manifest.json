@@ -1,0 +1,19 @@
+{
+  "name": "lark-attendance",
+  "slug": "lark-attendance",
+  "version": "1.0.0",
+  "description": "飞书考勤打卡：查询自己的考勤打卡记录",
+  "author": {
+    "name": "larksuite",
+    "github": "larksuite"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/larksuite/cli/lark-attendance",
+    "github": "https://github.com/larksuite/cli",
+    "repo": "larksuite/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

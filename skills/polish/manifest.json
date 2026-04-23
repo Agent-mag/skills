@@ -1,0 +1,19 @@
+{
+  "name": "polish",
+  "slug": "polish",
+  "version": "1.0.0",
+  "description": "Performs a final quality pass fixing alignment, spacing, consistency, and micro-detail issues before shipping. Use when the user mentions polish, finishing touches, pre-launch review, something looks off, or wants to go from good to great.",
+  "author": {
+    "name": "pbakaus",
+    "github": "pbakaus"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/pbakaus/impeccable/polish",
+    "github": "https://github.com/pbakaus/impeccable",
+    "repo": "pbakaus/impeccable"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

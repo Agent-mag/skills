@@ -1,0 +1,19 @@
+{
+  "name": "layout",
+  "slug": "layout",
+  "version": "1.0.0",
+  "description": "Improve layout, spacing, and visual rhythm. Fixes monotonous grids, inconsistent spacing, and weak visual hierarchy. Use when the user mentions layout feeling off, spacing issues, visual hierarchy, crowded UI, alignment problems, or wanting better composition.",
+  "author": {
+    "name": "pbakaus",
+    "github": "pbakaus"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/pbakaus/impeccable/layout",
+    "github": "https://github.com/pbakaus/impeccable",
+    "repo": "pbakaus/impeccable"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

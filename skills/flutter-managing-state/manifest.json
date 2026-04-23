@@ -1,0 +1,19 @@
+{
+  "name": "flutter-managing-state",
+  "slug": "flutter-managing-state",
+  "version": "1.0.0",
+  "description": "Manages application and ephemeral state in a Flutter app. Use when sharing data between widgets or handling complex UI state transitions.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-managing-state",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

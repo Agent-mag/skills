@@ -1,0 +1,19 @@
+{
+  "name": "flutter-adding-home-screen-widgets",
+  "slug": "flutter-adding-home-screen-widgets",
+  "version": "1.0.0",
+  "description": "Adds home screen widgets to a Flutter app for Android and iOS. Use when providing glanceable app information or quick actions on the device home screen.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-adding-home-screen-widgets",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

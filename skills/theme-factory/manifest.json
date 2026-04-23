@@ -1,0 +1,19 @@
+{
+  "name": "theme-factory",
+  "slug": "theme-factory",
+  "version": "1.0.0",
+  "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/anthropics/skills/theme-factory",
+    "github": "https://github.com/anthropics/skills",
+    "repo": "anthropics/skills"
+  },
+  "license": "Complete terms in LICENSE.txt",
+  "tags": [],
+  "category": "Code & Compute"
+}

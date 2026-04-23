@@ -1,0 +1,19 @@
+{
+  "name": "distill",
+  "slug": "distill",
+  "version": "1.0.0",
+  "description": "Strip designs to their essence by removing unnecessary complexity. Great design is simple, powerful, and clean. Use when the user asks to simplify, declutter, reduce noise, remove elements, or make a UI cleaner and more focused.",
+  "author": {
+    "name": "pbakaus",
+    "github": "pbakaus"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/pbakaus/impeccable/distill",
+    "github": "https://github.com/pbakaus/impeccable",
+    "repo": "pbakaus/impeccable"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

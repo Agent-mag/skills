@@ -1,0 +1,19 @@
+{
+  "name": "subagent-driven-development",
+  "slug": "subagent-driven-development",
+  "version": "1.0.0",
+  "description": "Use when executing implementation plans with independent tasks in the current session",
+  "author": {
+    "name": "obra",
+    "github": "obra"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/obra/superpowers/subagent-driven-development",
+    "github": "https://github.com/obra/superpowers",
+    "repo": "obra/superpowers"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

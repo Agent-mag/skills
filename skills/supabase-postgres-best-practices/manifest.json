@@ -1,0 +1,19 @@
+{
+  "name": "supabase-postgres-best-practices",
+  "slug": "supabase-postgres-best-practices",
+  "version": "1.0.0",
+  "description": "Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations.",
+  "author": {
+    "name": "supabase",
+    "github": "supabase"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices",
+    "github": "https://github.com/supabase/agent-skills",
+    "repo": "supabase/agent-skills"
+  },
+  "license": "MIT",
+  "tags": [],
+  "category": "Code & Compute"
+}

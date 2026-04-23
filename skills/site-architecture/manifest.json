@@ -1,0 +1,19 @@
+{
+  "name": "site-architecture",
+  "slug": "site-architecture",
+  "version": "1.0.0",
+  "description": "When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal linking. Also use when the user mentions \"sitemap,\" \"site map,\" \"visual sitemap,\" \"site structure,\" \"page hierarchy,\" \"information architecture,\" \"IA,\" \"navigation design,\" \"URL structure,\" \"breadcrumbs,\" \"internal linking strategy,\" \"website planning,\" \"what pages do I need,\" \"how should I organize my site,\" or \"site navigation.\" Use this whenever someone is planning what pages a website should have and how they connect. NOT for XML sitemaps (that's technical SEO — see seo-audit). For SEO audits, see seo-audit. For structured data, see schema-markup.",
+  "author": {
+    "name": "coreyhaines31",
+    "github": "coreyhaines31"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/coreyhaines31/marketingskills/site-architecture",
+    "github": "https://github.com/coreyhaines31/marketingskills",
+    "repo": "coreyhaines31/marketingskills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

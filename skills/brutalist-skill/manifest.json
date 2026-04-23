@@ -1,0 +1,19 @@
+{
+  "name": "industrial-brutalist-ui",
+  "slug": "brutalist-skill",
+  "version": "1.0.0",
+  "description": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type scale contrast, utilitarian color, analog degradation effects. For data-heavy dashboards, portfolios, or editorial sites that need to feel like declassified blueprints.",
+  "author": {
+    "name": "leonxlnx",
+    "github": "leonxlnx"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/leonxlnx/taste-skill/brutalist-skill",
+    "github": "https://github.com/leonxlnx/taste-skill",
+    "repo": "leonxlnx/taste-skill"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

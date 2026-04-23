@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Bash(firecrawl *)",
+    "description": "Tool: Bash(firecrawl *)"
+  },
+  {
+    "name": "Bash(npx firecrawl *)",
+    "description": "Tool: Bash(npx firecrawl *)"
+  }
+]

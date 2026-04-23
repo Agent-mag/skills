@@ -1,0 +1,19 @@
+{
+  "name": "flutter-building-plugins",
+  "slug": "flutter-building-plugins",
+  "version": "1.0.0",
+  "description": "Builds Flutter plugins that provide native interop for other apps to use. Use when creating reusable packages that bridge Flutter with platform-specific functionality.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-building-plugins",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dart-skills-lint-validation",
+  "slug": "dart-skills-lint-validation",
+  "version": "1.0.0",
+  "description": "Use this skill when you need to validate that AI agent skills meet the specification.\nThis includes generic validation of any skills for users that have Dart installed,\nas well as integrating dart_skills_lint into a Dart project as a dev_dependency\nto automate skill validation in tests or CI/CD.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/dart-skills-lint-validation",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

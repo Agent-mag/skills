@@ -1,0 +1,19 @@
+{
+  "name": "caveman-commit",
+  "slug": "caveman-commit",
+  "version": "1.0.0",
+  "description": "Ultra-compressed commit message generator. Cuts noise from commit messages while preserving intent and reasoning. Conventional Commits format. Subject ≤50 chars, body only when \"why\" isn't obvious. Use when user says \"write a commit\", \"commit message\", \"generate commit\", \"/commit\", or invokes /caveman-commit. Auto-triggers when staging changes.\n",
+  "author": {
+    "name": "juliusbrussee",
+    "github": "juliusbrussee"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/juliusbrussee/caveman/caveman-commit",
+    "github": "https://github.com/juliusbrussee/caveman",
+    "repo": "juliusbrussee/caveman"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

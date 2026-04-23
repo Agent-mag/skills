@@ -1,0 +1,19 @@
+{
+  "name": "azure-cloud-migrate",
+  "slug": "azure-cloud-migrate",
+  "version": "1.0.0",
+  "description": "Assess and migrate cross-cloud workloads to Azure with migration reports and code conversion. Supports AWS Lambda→Functions and GCP Cloud Run→Container Apps. WHEN: migrate Lambda to Azure Functions, migrate AWS to Azure, Lambda migration assessment, convert serverless to Azure, migration readiness report, migrate from AWS, migrate from GCP, Cloud Run to Container Apps, Cloud Run migration assessment.",
+  "author": {
+    "name": "microsoft",
+    "github": "microsoft"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/microsoft/azure-skills/azure-cloud-migrate",
+    "github": "https://github.com/microsoft/azure-skills",
+    "repo": "microsoft/azure-skills"
+  },
+  "license": "MIT",
+  "tags": [],
+  "category": "Code & Compute"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "harden",
+  "slug": "harden",
+  "version": "1.0.0",
+  "description": "Make interfaces production-ready: error handling, empty states, onboarding flows, i18n, text overflow, and edge case management. Use when the user asks to harden, make production-ready, handle edge cases, add error states, design empty states, improve onboarding, or fix overflow and i18n issues.",
+  "author": {
+    "name": "pbakaus",
+    "github": "pbakaus"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/pbakaus/impeccable/harden",
+    "github": "https://github.com/pbakaus/impeccable",
+    "repo": "pbakaus/impeccable"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

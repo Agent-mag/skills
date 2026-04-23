@@ -1,0 +1,19 @@
+{
+  "name": "azure-kubernetes",
+  "slug": "azure-kubernetes",
+  "version": "1.0.0",
+  "description": "Plan, create, and configure production-ready Azure Kubernetes Service (AKS) clusters. Covers Day-0 checklist, SKU selection (Automatic vs Standard), networking options (private API server, Azure CNI Overlay, egress configuration), security, and operations (autoscaling, upgrade strategy, cost analysis). WHEN: create AKS environment, provision AKS environment, enable AKS observability, design AKS networking, choose AKS SKU, secure AKS, optimize AKS, rightsize AKS pod, AKS spot nodes, AKS cluster-autoscaler.",
+  "author": {
+    "name": "microsoft",
+    "github": "microsoft"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/microsoft/azure-skills/azure-kubernetes",
+    "github": "https://github.com/microsoft/azure-skills",
+    "repo": "microsoft/azure-skills"
+  },
+  "license": "MIT",
+  "tags": [],
+  "category": "Code & Compute"
+}

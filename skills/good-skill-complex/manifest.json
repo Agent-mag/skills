@@ -1,0 +1,19 @@
+{
+  "name": "good-skill-complex",
+  "slug": "good-skill-complex",
+  "version": "1.0.0",
+  "description": "A very complex description that spans multiple lines and contains weird chars: !@#$%^&*()\n",
+  "author": {
+    "name": "larksuite",
+    "github": "larksuite"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/larksuite/cli/good-skill-complex",
+    "github": "https://github.com/larksuite/cli",
+    "repo": "larksuite/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

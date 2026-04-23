@@ -1,0 +1,19 @@
+{
+  "name": "flutter-setting-up-on-linux",
+  "slug": "flutter-setting-up-on-linux",
+  "version": "1.0.0",
+  "description": "Sets up a Linux environment for Flutter development. Use when configuring a Linux machine to run, build, or deploy Flutter applications.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-setting-up-on-linux",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

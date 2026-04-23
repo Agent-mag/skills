@@ -1,0 +1,19 @@
+{
+  "name": "systematic-debugging",
+  "slug": "systematic-debugging",
+  "version": "1.0.0",
+  "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+  "author": {
+    "name": "obra",
+    "github": "obra"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/obra/superpowers/systematic-debugging",
+    "github": "https://github.com/obra/superpowers",
+    "repo": "obra/superpowers"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

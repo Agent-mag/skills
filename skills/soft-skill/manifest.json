@@ -1,0 +1,19 @@
+{
+  "name": "high-end-visual-design",
+  "slug": "soft-skill",
+  "version": "1.0.0",
+  "description": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make AI designs look cheap or generic.",
+  "author": {
+    "name": "leonxlnx",
+    "github": "leonxlnx"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/leonxlnx/taste-skill/soft-skill",
+    "github": "https://github.com/leonxlnx/taste-skill",
+    "repo": "leonxlnx/taste-skill"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

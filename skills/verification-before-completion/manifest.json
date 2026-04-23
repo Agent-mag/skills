@@ -1,0 +1,19 @@
+{
+  "name": "verification-before-completion",
+  "slug": "verification-before-completion",
+  "version": "1.0.0",
+  "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+  "author": {
+    "name": "obra",
+    "github": "obra"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/obra/superpowers/verification-before-completion",
+    "github": "https://github.com/obra/superpowers",
+    "repo": "obra/superpowers"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

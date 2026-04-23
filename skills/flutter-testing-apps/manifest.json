@@ -1,0 +1,19 @@
+{
+  "name": "flutter-testing-apps",
+  "slug": "flutter-testing-apps",
+  "version": "1.0.0",
+  "description": "Implements unit, widget, and integration tests for a Flutter app. Use when ensuring code quality and preventing regressions through automated testing.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-testing-apps",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "next-cache-components",
+  "slug": "next-cache-components",
+  "version": "1.0.0",
+  "description": "Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag",
+  "author": {
+    "name": "vercel-labs",
+    "github": "vercel-labs"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/vercel-labs/next-skills/next-cache-components",
+    "github": "https://github.com/vercel-labs/next-skills",
+    "repo": "vercel-labs/next-skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dart-cli-app-best-practices",
+  "slug": "dart-cli-app-best-practices",
+  "version": "1.0.0",
+  "description": "Best practices for creating high-quality, executable Dart CLI applications.\nCovers entrypoint structure, exit code handling, and recommended packages.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/dart-cli-app-best-practices",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "Apache-2.0",
+  "tags": [],
+  "category": "Code & Compute"
+}

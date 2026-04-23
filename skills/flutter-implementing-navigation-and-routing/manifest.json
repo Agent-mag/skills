@@ -1,0 +1,19 @@
+{
+  "name": "flutter-implementing-navigation-and-routing",
+  "slug": "flutter-implementing-navigation-and-routing",
+  "version": "1.0.0",
+  "description": "Handles routing, navigation, and deep linking in a Flutter application. Use when moving between screens or setting up URL-based navigation.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-implementing-navigation-and-routing",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

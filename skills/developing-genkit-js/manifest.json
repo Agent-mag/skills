@@ -1,0 +1,19 @@
+{
+  "name": "developing-genkit-js",
+  "slug": "developing-genkit-js",
+  "version": "1.0.0",
+  "description": "Develop AI-powered applications using Genkit in Node.js/TypeScript. Use when the user asks about Genkit, AI agents, flows, or tools in JavaScript/TypeScript, or when encountering Genkit errors, validation issues, type errors, or API problems.",
+  "author": {
+    "name": "firebase",
+    "github": "firebase"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/firebase/agent-skills/developing-genkit-js",
+    "github": "https://github.com/firebase/agent-skills",
+    "repo": "firebase/agent-skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

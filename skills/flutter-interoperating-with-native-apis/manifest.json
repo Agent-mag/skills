@@ -1,0 +1,19 @@
+{
+  "name": "flutter-interoperating-with-native-apis",
+  "slug": "flutter-interoperating-with-native-apis",
+  "version": "1.0.0",
+  "description": "Interoperates with native platform APIs on Android, iOS, and the web. Use when accessing device-specific features not available in Dart or calling existing native code.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-interoperating-with-native-apis",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

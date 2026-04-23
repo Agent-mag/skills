@@ -1,0 +1,19 @@
+{
+  "name": "playwright-cli",
+  "slug": "playwright-cli",
+  "version": "1.0.0",
+  "description": "Automate browser interactions, test web pages and work with Playwright tests.",
+  "author": {
+    "name": "microsoft",
+    "github": "microsoft"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/microsoft/playwright-cli/playwright-cli",
+    "github": "https://github.com/microsoft/playwright-cli",
+    "repo": "microsoft/playwright-cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

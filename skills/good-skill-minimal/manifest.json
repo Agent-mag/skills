@@ -1,0 +1,19 @@
+{
+  "name": "good-skill-minimal",
+  "slug": "good-skill-minimal",
+  "version": "1.0.0",
+  "description": "Minimal valid description",
+  "author": {
+    "name": "larksuite",
+    "github": "larksuite"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/larksuite/cli/good-skill-minimal",
+    "github": "https://github.com/larksuite/cli",
+    "repo": "larksuite/cli"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Design & UI"
+}

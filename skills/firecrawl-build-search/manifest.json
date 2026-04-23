@@ -1,0 +1,19 @@
+{
+  "name": "firecrawl-build-search",
+  "slug": "firecrawl-build-search",
+  "version": "1.0.0",
+  "description": "Integrate Firecrawl `/search` into product code and agent workflows. Use when an app needs discovery before extraction, when the feature starts with a query instead of a URL, or when the system should search the web and optionally hydrate result content.",
+  "author": {
+    "name": "firecrawl",
+    "github": "firecrawl"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/firecrawl/skills/firecrawl-build-search",
+    "github": "https://github.com/firecrawl/skills",
+    "repo": "firecrawl/skills"
+  },
+  "license": "ISC",
+  "tags": [],
+  "category": "Browsing & Search"
+}

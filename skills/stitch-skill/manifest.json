@@ -1,0 +1,19 @@
+{
+  "name": "stitch-design-taste",
+  "slug": "stitch-skill",
+  "version": "1.0.0",
+  "description": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards — strict typography, calibrated color, asymmetric layouts, perpetual micro-motion, and hardware-accelerated performance.",
+  "author": {
+    "name": "leonxlnx",
+    "github": "leonxlnx"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/leonxlnx/taste-skill/stitch-skill",
+    "github": "https://github.com/leonxlnx/taste-skill",
+    "repo": "leonxlnx/taste-skill"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

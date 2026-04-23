@@ -1,0 +1,19 @@
+{
+  "name": "readme-i18n",
+  "slug": "readme-i18n",
+  "version": "1.0.0",
+  "description": "Use when the user wants to translate a repository README, make a repo multilingual, localize docs, add a language switcher, internationalize the README, or update localized README variants in a GitHub-style repository.",
+  "author": {
+    "name": "xixu-me",
+    "github": "xixu-me"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/xixu-me/skills/readme-i18n",
+    "github": "https://github.com/xixu-me/skills",
+    "repo": "xixu-me/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

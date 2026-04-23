@@ -1,0 +1,19 @@
+{
+  "name": "firebase-hosting-basics",
+  "slug": "firebase-hosting-basics",
+  "version": "1.0.0",
+  "description": "Skill for working with Firebase Hosting (Classic). Use this when you want to deploy static web apps, Single Page Apps (SPAs), or simple microservices. Do NOT use for Firebase App Hosting.",
+  "author": {
+    "name": "firebase",
+    "github": "firebase"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/firebase/agent-skills/firebase-hosting-basics",
+    "github": "https://github.com/firebase/agent-skills",
+    "repo": "firebase/agent-skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

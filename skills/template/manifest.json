@@ -1,0 +1,19 @@
+{
+  "name": "template-skill",
+  "slug": "template",
+  "version": "1.0.0",
+  "description": "Replace with description of the skill and when Claude should use it.",
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/anthropics/skills/template",
+    "github": "https://github.com/anthropics/skills",
+    "repo": "anthropics/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

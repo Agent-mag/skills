@@ -1,0 +1,19 @@
+{
+  "name": "flutter-embedding-native-views",
+  "slug": "flutter-embedding-native-views",
+  "version": "1.0.0",
+  "description": "Embeds native Android, iOS, or macOS views into a Flutter app. Use when integrating complex native components like maps or web views.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-embedding-native-views",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

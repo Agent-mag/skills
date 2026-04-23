@@ -1,6 +1,0 @@
-{
-  "defaults": {
-    "max_results": 5,
-    "search_recency_days": 7
-  }
-}

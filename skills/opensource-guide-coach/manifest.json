@@ -1,0 +1,19 @@
+{
+  "name": "opensource-guide-coach",
+  "slug": "opensource-guide-coach",
+  "version": "1.0.0",
+  "description": "Use when a user wants guidance on starting, contributing to, growing, governing, funding, securing, or sustaining an open source project, or asks about contributor onboarding, community health, maintainer burnout, code of conduct, metrics, legal basics, or open source project adoption.",
+  "author": {
+    "name": "xixu-me",
+    "github": "xixu-me"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/xixu-me/skills/opensource-guide-coach",
+    "github": "https://github.com/xixu-me/skills",
+    "repo": "xixu-me/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

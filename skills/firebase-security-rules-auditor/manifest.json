@@ -1,0 +1,19 @@
+{
+  "name": "firestore-security-rules-auditor",
+  "slug": "firebase-security-rules-auditor",
+  "version": "1.0.0",
+  "description": "A skill to evaluate how secure Firestore security rules are. Use this when Firestore security rules are updated to ensure that the generated rules are extremely secure and robust.",
+  "author": {
+    "name": "firebase",
+    "github": "firebase"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/firebase/agent-skills/firebase-security-rules-auditor",
+    "github": "https://github.com/firebase/agent-skills",
+    "repo": "firebase/agent-skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

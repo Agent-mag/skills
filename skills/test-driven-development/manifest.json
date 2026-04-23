@@ -1,0 +1,19 @@
+{
+  "name": "test-driven-development",
+  "slug": "test-driven-development",
+  "version": "1.0.0",
+  "description": "Use when implementing any feature or bugfix, before writing implementation code",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/test-driven-development",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

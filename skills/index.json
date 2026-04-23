@@ -1,0 +1,1591 @@
+{
+  "total": 264,
+  "updatedAt": "2026-04-23T18:26:31.893Z",
+  "source": "Scraped from skills.sh ecosystem via GitHub",
+  "skills": [
+    {
+      "slug": "ab-test-setup",
+      "name": "ab-test-setup",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "ad-creative",
+      "name": "ad-creative",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "adapt",
+      "name": "adapt",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "add-dart-lint-validation-rule",
+      "name": "add-dart-lint-validation-rule",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "agent-browser",
+      "name": "agent-browser",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "agentcore",
+      "name": "agentcore",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "ai-seo",
+      "name": "ai-seo",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "airunway-aks-setup",
+      "name": "airunway-aks-setup",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "algorithmic-art",
+      "name": "algorithmic-art",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "analytics-tracking",
+      "name": "analytics-tracking",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "animate",
+      "name": "animate",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "appinsights-instrumentation",
+      "name": "appinsights-instrumentation",
+      "author": "microsoft",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "aso-audit",
+      "name": "aso-audit",
+      "author": "coreyhaines31",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "audit",
+      "name": "audit",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-ai",
+      "name": "azure-ai",
+      "author": "microsoft",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "azure-aigateway",
+      "name": "azure-aigateway",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-cloud-migrate",
+      "name": "azure-cloud-migrate",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-compliance",
+      "name": "azure-compliance",
+      "author": "microsoft",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "azure-compute",
+      "name": "azure-compute",
+      "author": "microsoft",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "azure-cost",
+      "name": "azure-cost",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-deploy",
+      "name": "azure-deploy",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-diagnostics",
+      "name": "azure-diagnostics",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-enterprise-infra-planner",
+      "name": "azure-enterprise-infra-planner",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-hosted-copilot-sdk",
+      "name": "azure-hosted-copilot-sdk",
+      "author": "microsoft",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "azure-kubernetes",
+      "name": "azure-kubernetes",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-kubernetes-automatic-readiness",
+      "name": "azure-kubernetes-automatic-readiness",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-kusto",
+      "name": "azure-kusto",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-messaging",
+      "name": "azure-messaging",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-prepare",
+      "name": "azure-prepare",
+      "author": "microsoft",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "azure-quotas",
+      "name": "azure-quotas",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-rbac",
+      "name": "azure-rbac",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-resource-lookup",
+      "name": "azure-resource-lookup",
+      "author": "microsoft",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "azure-resource-visualizer",
+      "name": "azure-resource-visualizer",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-storage",
+      "name": "azure-storage",
+      "author": "microsoft",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "azure-upgrade",
+      "name": "azure-upgrade",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "azure-validate",
+      "name": "azure-validate",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "bad-skill",
+      "name": "bad-skill",
+      "author": "larksuite",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "bad-skill-no-frontmatter",
+      "name": "bad-skill-no-frontmatter",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "bolder",
+      "name": "bolder",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "brainstorming",
+      "name": "brainstorming",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "brand-guidelines",
+      "name": "brand-guidelines",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "brutalist-skill",
+      "name": "industrial-brutalist-ui",
+      "author": "leonxlnx",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "canvas-design",
+      "name": "canvas-design",
+      "author": "anthropics",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "capacity",
+      "name": "capacity",
+      "author": "microsoft",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "caveman",
+      "name": "caveman",
+      "author": "juliusbrussee",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "caveman-commit",
+      "name": "caveman-commit",
+      "author": "juliusbrussee",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "caveman-compress",
+      "name": "caveman-compress",
+      "author": "juliusbrussee",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "caveman-help",
+      "name": "caveman-help",
+      "author": "juliusbrussee",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "caveman-review",
+      "name": "caveman-review",
+      "author": "juliusbrussee",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "churn-prevention",
+      "name": "churn-prevention",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "clarify",
+      "name": "clarify",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "claude-api",
+      "name": "claude-api",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "cli-e2e-testcase-writer",
+      "name": "cli-e2e-testcase-writer",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "cold-email",
+      "name": "cold-email",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "colorize",
+      "name": "colorize",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "community-marketing",
+      "name": "community-marketing",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "competitor-alternatives",
+      "name": "competitor-alternatives",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "competitor-profiling",
+      "name": "competitor-profiling",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "composition-patterns",
+      "name": "vercel-composition-patterns",
+      "author": "vercel-labs",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "compress",
+      "name": "compress",
+      "author": "juliusbrussee",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "content-strategy",
+      "name": "content-strategy",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "convex",
+      "name": "convex",
+      "author": "get-convex",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "convex-create-component",
+      "name": "convex-create-component",
+      "author": "get-convex",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "convex-migration-helper",
+      "name": "convex-migration-helper",
+      "author": "get-convex",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "convex-performance-audit",
+      "name": "convex-performance-audit",
+      "author": "get-convex",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "convex-quickstart",
+      "name": "convex-quickstart",
+      "author": "get-convex",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "convex-setup-auth",
+      "name": "convex-setup-auth",
+      "author": "get-convex",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "copy-editing",
+      "name": "copy-editing",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "copywriting",
+      "name": "copywriting",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "core",
+      "name": "core",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "critique",
+      "name": "critique",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "customer-research",
+      "name": "customer-research",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "customize",
+      "name": "customize",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dart-best-practices",
+      "name": "dart-best-practices",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dart-cli-app-best-practices",
+      "name": "dart-cli-app-best-practices",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dart-doc-validation",
+      "name": "dart-doc-validation",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dart-matcher-best-practices",
+      "name": "dart-matcher-best-practices",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dart-modern-features",
+      "name": "dart-modern-features",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dart-package-maintenance",
+      "name": "dart-package-maintenance",
+      "author": "flutter",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "dart-skills-lint-validation",
+      "name": "dart-skills-lint-validation",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dart-test-fundamentals",
+      "name": "dart-test-fundamentals",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "delight",
+      "name": "delight",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "deploy-model",
+      "name": "deploy-model",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "deploy-to-vercel",
+      "name": "deploy-to-vercel",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "dev",
+      "name": "dev",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "develop-userscripts",
+      "name": "develop-userscripts",
+      "author": "xixu-me",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "developing-genkit-dart",
+      "name": "developing-genkit-dart",
+      "author": "firebase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "developing-genkit-go",
+      "name": "developing-genkit-go",
+      "author": "firebase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "developing-genkit-js",
+      "name": "developing-genkit-js",
+      "author": "firebase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "developing-genkit-python",
+      "name": "developing-genkit-python",
+      "author": "firebase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "directory-submissions",
+      "name": "directory-submissions",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "distill",
+      "name": "distill",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "doc-coauthoring",
+      "name": "doc-coauthoring",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "docx",
+      "name": "docx",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "dogfood",
+      "name": "dogfood",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "electron",
+      "name": "electron",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "email-sequence",
+      "name": "email-sequence",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "entra-app-registration",
+      "name": "entra-app-registration",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "executing-plans",
+      "name": "executing-plans",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "find-skills",
+      "name": "find-skills",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "firebase-ai-logic-basics",
+      "name": "firebase-ai-logic",
+      "author": "firebase",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firebase-app-hosting-basics",
+      "name": "firebase-app-hosting-basics",
+      "author": "firebase",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firebase-auth-basics",
+      "name": "firebase-auth-basics",
+      "author": "firebase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "firebase-basics",
+      "name": "firebase-basics",
+      "author": "firebase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "firebase-data-connect-basics",
+      "name": "firebase-data-connect",
+      "author": "firebase",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firebase-firestore-enterprise-native-mode",
+      "name": "firebase-firestore-enterprise-native-mode",
+      "author": "firebase",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "firebase-firestore-standard",
+      "name": "firebase-firestore-standard",
+      "author": "firebase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "firebase-hosting-basics",
+      "name": "firebase-hosting-basics",
+      "author": "firebase",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firebase-security-rules-auditor",
+      "name": "firestore-security-rules-auditor",
+      "author": "firebase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "firecrawl-agent",
+      "name": "firecrawl-agent",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-build-interact",
+      "name": "firecrawl-build-interact",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-build-onboarding",
+      "name": "firecrawl-build-onboarding",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-build-scrape",
+      "name": "firecrawl-build-scrape",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-build-search",
+      "name": "firecrawl-build-search",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-cli",
+      "name": "firecrawl",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-crawl",
+      "name": "firecrawl-crawl",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-download",
+      "name": "firecrawl-download",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-interact",
+      "name": "firecrawl-interact",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-map",
+      "name": "firecrawl-map",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-scrape",
+      "name": "firecrawl-scrape",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "firecrawl-search",
+      "name": "firecrawl-search",
+      "author": "firecrawl",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "flutter-adding-home-screen-widgets",
+      "name": "flutter-adding-home-screen-widgets",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-animating-apps",
+      "name": "flutter-animating-apps",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-architecting-apps",
+      "name": "flutter-architecting-apps",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-building-forms",
+      "name": "flutter-building-forms",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-building-layouts",
+      "name": "flutter-building-layouts",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-building-plugins",
+      "name": "flutter-building-plugins",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-caching-data",
+      "name": "flutter-caching-data",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-embedding-native-views",
+      "name": "flutter-embedding-native-views",
+      "author": "flutter",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "flutter-handling-concurrency",
+      "name": "flutter-handling-concurrency",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-handling-http-and-json",
+      "name": "flutter-handling-http-and-json",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-implementing-navigation-and-routing",
+      "name": "flutter-implementing-navigation-and-routing",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-improving-accessibility",
+      "name": "flutter-improving-accessibility",
+      "author": "flutter",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "flutter-interoperating-with-native-apis",
+      "name": "flutter-interoperating-with-native-apis",
+      "author": "flutter",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "flutter-localizing-apps",
+      "name": "flutter-localizing-apps",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-managing-state",
+      "name": "flutter-managing-state",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-reducing-app-size",
+      "name": "flutter-reducing-app-size",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-setting-up-on-linux",
+      "name": "flutter-setting-up-on-linux",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-setting-up-on-macos",
+      "name": "flutter-setting-up-on-macos",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-setting-up-on-windows",
+      "name": "flutter-setting-up-on-windows",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-testing-apps",
+      "name": "flutter-testing-apps",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-theming-apps",
+      "name": "flutter-theming-apps",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "flutter-working-with-databases",
+      "name": "flutter-working-with-databases",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "form-cro",
+      "name": "form-cro",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "free-tool-strategy",
+      "name": "free-tool-strategy",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "frontend-design",
+      "name": "frontend-design",
+      "author": "anthropics",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "frontendwebsiteimageskill",
+      "name": "image-taste-frontend",
+      "author": "leonxlnx",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "github-actions-docs",
+      "name": "github-actions-docs",
+      "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "good-skill",
+      "name": "good-skill",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "good-skill-complex",
+      "name": "good-skill-complex",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "good-skill-minimal",
+      "name": "good-skill-minimal",
+      "author": "larksuite",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "gpt-tasteskill",
+      "name": "gpt-taste",
+      "author": "leonxlnx",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "gsap",
+      "name": "gsap",
+      "author": "heygen-com",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "harden",
+      "name": "harden",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "hyperframes",
+      "name": "hyperframes",
+      "author": "heygen-com",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "hyperframes-cli",
+      "name": "hyperframes-cli",
+      "author": "heygen-com",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "hyperframes-registry",
+      "name": "hyperframes-registry",
+      "author": "heygen-com",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "images-taste-skill",
+      "name": "image-taste-frontend",
+      "author": "leonxlnx",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "impeccable",
+      "name": "impeccable",
+      "author": "pbakaus",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "internal-comms",
+      "name": "internal-comms",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-approval",
+      "name": "lark-approval",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-attendance",
+      "name": "lark-attendance",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-base",
+      "name": "lark-base",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-calendar",
+      "name": "lark-calendar",
+      "author": "larksuite",
+      "category": "Communication"
+    },
+    {
+      "slug": "lark-contact",
+      "name": "lark-contact",
+      "author": "larksuite",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "lark-doc",
+      "name": "lark-doc",
+      "author": "larksuite",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "lark-drive",
+      "name": "lark-drive",
+      "author": "larksuite",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "lark-event",
+      "name": "lark-event",
+      "author": "larksuite",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "lark-im",
+      "name": "lark-im",
+      "author": "larksuite",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "lark-mail",
+      "name": "lark-mail",
+      "author": "larksuite",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "lark-minutes",
+      "name": "lark-minutes",
+      "author": "larksuite",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "lark-okr",
+      "name": "lark-okr",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-openapi-explorer",
+      "name": "lark-openapi-explorer",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-shared",
+      "name": "lark-shared",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-sheets",
+      "name": "lark-sheets",
+      "author": "larksuite",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "lark-skill-maker",
+      "name": "lark-skill-maker",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-slides",
+      "name": "lark-slides",
+      "author": "larksuite",
+      "category": "Design & UI"
+    },
+    {
+      "slug": "lark-task",
+      "name": "lark-task",
+      "author": "larksuite",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "lark-vc",
+      "name": "lark-vc",
+      "author": "larksuite",
+      "category": "Communication"
+    },
+    {
+      "slug": "lark-whiteboard",
+      "name": "lark-whiteboard",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-wiki",
+      "name": "lark-wiki",
+      "author": "larksuite",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lark-workflow-meeting-summary",
+      "name": "lark-workflow-meeting-summary",
+      "author": "larksuite",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "lark-workflow-standup-report",
+      "name": "lark-workflow-standup-report",
+      "author": "larksuite",
+      "category": "Communication"
+    },
+    {
+      "slug": "launch-strategy",
+      "name": "launch-strategy",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "layout",
+      "name": "layout",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "lead-magnets",
+      "name": "lead-magnets",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "marketing-ideas",
+      "name": "marketing-ideas",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "marketing-psychology",
+      "name": "marketing-psychology",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "mcp-builder",
+      "name": "mcp-builder",
+      "author": "anthropics",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "microsoft-foundry",
+      "name": "microsoft-foundry",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "minimalist-skill",
+      "name": "minimalist-ui",
+      "author": "leonxlnx",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "next-best-practices",
+      "name": "next-best-practices",
+      "author": "vercel-labs",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "next-cache-components",
+      "name": "next-cache-components",
+      "author": "vercel-labs",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "next-upgrade",
+      "name": "next-upgrade",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "onboarding-cro",
+      "name": "onboarding-cro",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "openclaw-secure-linux-cloud",
+      "name": "openclaw-secure-linux-cloud",
+      "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "opensource-guide-coach",
+      "name": "opensource-guide-coach",
+      "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "optimize",
+      "name": "optimize",
+      "author": "pbakaus",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "output-skill",
+      "name": "full-output-enforcement",
+      "author": "leonxlnx",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "overdrive",
+      "name": "overdrive",
+      "author": "pbakaus",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "page-cro",
+      "name": "page-cro",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "paid-ads",
+      "name": "paid-ads",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "paywall-upgrade-cro",
+      "name": "paywall-upgrade-cro",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "pdf",
+      "name": "pdf",
+      "author": "anthropics",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "playwright-cli",
+      "name": "playwright-cli",
+      "author": "microsoft",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "polish",
+      "name": "polish",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "popup-cro",
+      "name": "popup-cro",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "pptx",
+      "name": "pptx",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "preset",
+      "name": "preset",
+      "author": "microsoft",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "pricing-strategy",
+      "name": "pricing-strategy",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "product-marketing-context",
+      "name": "product-marketing-context",
+      "author": "coreyhaines31",
+      "category": "Data & Files"
+    },
+    {
+      "slug": "programmatic-seo",
+      "name": "programmatic-seo",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "quieter",
+      "name": "quieter",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "react-best-practices",
+      "name": "vercel-react-best-practices",
+      "author": "vercel-labs",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "react-native-skills",
+      "name": "vercel-react-native-skills",
+      "author": "vercel-labs",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "react-view-transitions",
+      "name": "vercel-react-view-transitions",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "readme-i18n",
+      "name": "readme-i18n",
+      "author": "xixu-me",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "receiving-code-review",
+      "name": "receiving-code-review",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "redesign-skill",
+      "name": "redesign-existing-projects",
+      "author": "leonxlnx",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "referral-program",
+      "name": "referral-program",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "requesting-code-review",
+      "name": "requesting-code-review",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "revops",
+      "name": "revops",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "running-claude-code-via-litellm-copilot",
+      "name": "running-claude-code-via-litellm-copilot",
+      "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "sales-enablement",
+      "name": "sales-enablement",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "schema-markup",
+      "name": "schema-markup",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "secure-linux-web-hosting",
+      "name": "secure-linux-web-hosting",
+      "author": "xixu-me",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "seo-audit",
+      "name": "seo-audit",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "shape",
+      "name": "shape",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "signup-flow-cro",
+      "name": "signup-flow-cro",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "site-architecture",
+      "name": "site-architecture",
+      "author": "coreyhaines31",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "skill-creator",
+      "name": "skill-creator",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "skills-cli",
+      "name": "skills-cli",
+      "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "slack",
+      "name": "slack",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "slack-gif-creator",
+      "name": "slack-gif-creator",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "social-content",
+      "name": "social-content",
+      "author": "coreyhaines31",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "soft-skill",
+      "name": "high-end-visual-design",
+      "author": "leonxlnx",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "stitch-skill",
+      "name": "stitch-design-taste",
+      "author": "leonxlnx",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "subagent-driven-development",
+      "name": "subagent-driven-development",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "supabase",
+      "name": "supabase",
+      "author": "supabase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "supabase-postgres-best-practices",
+      "name": "supabase-postgres-best-practices",
+      "author": "supabase",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "systematic-debugging",
+      "name": "systematic-debugging",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "taste-skill",
+      "name": "design-taste-frontend",
+      "author": "leonxlnx",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "template",
+      "name": "template-skill",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "test-driven-development",
+      "name": "test-driven-development",
+      "author": "flutter",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "theme-factory",
+      "name": "theme-factory",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "typeset",
+      "name": "typeset",
+      "author": "pbakaus",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "tzst",
+      "name": "tzst",
+      "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "use-my-browser",
+      "name": "use-my-browser",
+      "author": "xixu-me",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "using-git-worktrees",
+      "name": "using-git-worktrees",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "using-superpowers",
+      "name": "using-superpowers",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "vercel-cli-with-tokens",
+      "name": "vercel-cli-with-tokens",
+      "author": "vercel-labs",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "vercel-sandbox",
+      "name": "vercel-sandbox",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "verification-before-completion",
+      "name": "verification-before-completion",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "author": "anthropics",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "web-design-guidelines",
+      "name": "web-design-guidelines",
+      "author": "vercel-labs",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "webapp-testing",
+      "name": "webapp-testing",
+      "author": "anthropics",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "website-to-hyperframes",
+      "name": "website-to-hyperframes",
+      "author": "heygen-com",
+      "category": "Browsing & Search"
+    },
+    {
+      "slug": "writing-plans",
+      "name": "writing-plans",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "writing-skills",
+      "name": "writing-skills",
+      "author": "obra",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "xdrop",
+      "name": "xdrop",
+      "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "xget",
+      "name": "xget",
+      "author": "xixu-me",
+      "category": "Code & Compute"
+    },
+    {
+      "slug": "xlsx",
+      "name": "xlsx",
+      "author": "anthropics",
+      "category": "Code & Compute"
+    }
+  ]
+}

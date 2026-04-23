@@ -1,0 +1,19 @@
+{
+  "name": "flutter-handling-concurrency",
+  "slug": "flutter-handling-concurrency",
+  "version": "1.0.0",
+  "description": "Executes long-running tasks in background isolates to keep the UI responsive. Use when performing heavy computations or parsing large datasets.",
+  "author": {
+    "name": "flutter",
+    "github": "flutter"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/flutter/skills/flutter-handling-concurrency",
+    "github": "https://github.com/flutter/skills",
+    "repo": "flutter/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

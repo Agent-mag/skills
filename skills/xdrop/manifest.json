@@ -1,0 +1,19 @@
+{
+  "name": "xdrop",
+  "slug": "xdrop",
+  "version": "1.0.0",
+  "description": "Use this skill when the user wants to send or fetch files through an Xdrop server from the terminal, asks to automate encrypted Xdrop share-link workflows, provides an Xdrop `/t/:transferId#k=...` link to download and decrypt locally, or needs Xdrop CLI flags such as `--quiet`, `--json`, `--expires-in`, `--output`, or `--api-url`, even if they do not explicitly mention the skill name.",
+  "author": {
+    "name": "xixu-me",
+    "github": "xixu-me"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/xixu-me/skills/xdrop",
+    "github": "https://github.com/xixu-me/skills",
+    "repo": "xixu-me/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Code & Compute"
+}

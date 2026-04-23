@@ -1,0 +1,19 @@
+{
+  "name": "develop-userscripts",
+  "slug": "develop-userscripts",
+  "version": "1.0.0",
+  "description": "Use when building, debugging, packaging, or publishing browser userscripts for Tampermonkey or ScriptCat, including GM APIs, metadata blocks, permission issues, @match/@grant/@connect setup, ScriptCat background or scheduled scripts, UserConfig blocks, or subscription workflows.",
+  "author": {
+    "name": "xixu-me",
+    "github": "xixu-me"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/xixu-me/skills/develop-userscripts",
+    "github": "https://github.com/xixu-me/skills",
+    "repo": "xixu-me/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}

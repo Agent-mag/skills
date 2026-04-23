@@ -1,0 +1,19 @@
+{
+  "name": "secure-linux-web-hosting",
+  "slug": "secure-linux-web-hosting",
+  "version": "1.0.0",
+  "description": "Use when setting up, hardening, or reviewing a cloud server for self-hosting, including DNS, SSH, firewalls, Nginx, static-site hosting, reverse-proxying an app, HTTPS with Let's Encrypt or ACME clients, safe HTTP-to-HTTPS redirects, or optional post-launch network tuning such as BBR.",
+  "author": {
+    "name": "xixu-me",
+    "github": "xixu-me"
+  },
+  "source": {
+    "type": "skills.sh",
+    "url": "https://skills.sh/xixu-me/skills/secure-linux-web-hosting",
+    "github": "https://github.com/xixu-me/skills",
+    "repo": "xixu-me/skills"
+  },
+  "license": "See source repo",
+  "tags": [],
+  "category": "Browsing & Search"
+}
